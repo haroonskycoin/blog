@@ -2,7 +2,6 @@
 aliases = []
 date = "2019-04-12T00:00:00+00:00"
 description = "Skycoin Update on the development of Skywire, the Skywallet and the Coinhour Bank."
-draft = true
 image = "/img/photo_2019-04-12 23.00.28.jpeg"
 tags = ["Skycoin", "Skywire", "Development"]
 title = "Skycoin Development Update - Week 15"
