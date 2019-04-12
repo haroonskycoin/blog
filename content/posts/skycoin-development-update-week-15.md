@@ -1,7 +1,7 @@
 +++
 aliases = []
 date = "2019-04-12T00:00:00+00:00"
-description = "Skycoin Update on the development of Skywire, the Skywallet and the Coinhour Bank."
+description = "Skycoin Update on the development of Skywire and the Skywallet."
 image = "/img/photo_2019-04-12 23.00.28.jpeg"
 tags = ["Skycoin", "Skywire", "Development"]
 title = "Skycoin Development Update - Week 15"
@@ -29,18 +29,8 @@ To guarantee secure seed generation, we have implemented the option to build fir
 
 Meanwhile, documentation for the hardware daemon has improved, and we have resolved an issue that was causing the dep not to initialize the submodule in one of the hardware daemon’s dependencies.
 
-### Coinhour Bank Updates
-
-Coinhour Bank has gotten some important security and performance updates.
-
-Deposits are now being registered and credited to the user’s balance correctly, and two-factor authentication is fully integrated into the account system.
-
-Coinhour Bank users can now make internal transfers amongst themselves off-chain without burning Coinhours simply by providing a user email, and can see transaction histories and balances on their dashboards.
-
-In addition to these improvements, a number of issues relating to deposits and transfers have been eliminated.
-
 ### Whitelisting/Auth System
 
 On this front, we will soon be releasing a fully redesigned UI with a consistent theme throughout that has been polished up for better usability.
 
-The project is moving ahead quickly, with Skywallet preparing for final security testing and Ledger and Coinhour Bank becoming more user-friendly. Skywire’s UI is nearing completion, while lingering bugs should be resolved soon. Look forward to news on these and more important updates in the days ahead!
+The project is moving ahead quickly, with Skywallet preparing for final security testing and Ledger becoming more user-friendly. Skywire’s UI is nearing completion, while lingering bugs should be resolved soon. Look forward to news on these and more important updates in the days ahead!
