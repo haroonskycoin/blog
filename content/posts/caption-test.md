@@ -8,6 +8,8 @@ tags = []
 title = "Caption test"
 
 +++
+test1
 ![](/img/skywallet_unboxing.png)
 
+test2
 {{< figure src="img/skywallet_unboxing.png" title="Skywallet unboxing" >}}
