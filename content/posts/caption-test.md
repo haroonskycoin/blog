@@ -12,7 +12,7 @@ test1
 ![test1alttext](/img/skywallet_unboxing_video.png "test1title")
 
 test2
-{{< figure src=""img/skywallet_unboxing_video.png" title="Skywallet unboxing" >}}
+{{< figure src="img/skywallet_unboxing_video.png" title="Skywallet unboxing" >}}
 
 {{< figure src="/img/skywallet_unboxing_video.png" title="Steve Francia" >}}
 
