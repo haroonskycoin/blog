@@ -8,3 +8,9 @@ tags = []
 title = "Caption test"
 
 +++
+![](/img/skywallet_unboxing.png)
+
+
+
+
+{{< figure src="/img/skywallet_unboxing.png" title="Skywallet unboxing" >}}
