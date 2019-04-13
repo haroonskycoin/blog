@@ -9,7 +9,7 @@ title = "Caption test"
 
 +++
 test1
-![](/img/skywallet_unboxing.png)
+![test1alttext](/img/skywallet_unboxing.png "test1title")
 
 test2
 {{< figure src="img/skywallet_unboxing.png" title="Skywallet unboxing" >}}
