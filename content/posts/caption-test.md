@@ -16,3 +16,5 @@ test2
 
 
 ![Ledger support for Skycoin is currently being worked on as we strive to give the Skyfleet as many options for secure coin storage.](/img/ledger-ui.png)
+
+help rebuild
