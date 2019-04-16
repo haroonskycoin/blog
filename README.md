@@ -66,3 +66,5 @@ Compile and build the SCSS
 ```sh
   yarn build:css
 ```
+
+**Note:** The compiled CSS files must be committed to the repository. They are not built during the deployment.
