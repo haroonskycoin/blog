@@ -9,11 +9,11 @@ title = "Skywire Mainnet Development Update"
 +++
 The initial launch of Skywire mainnet is here! The coordinated work and development from our team was a massive effort to launch all the components of Skywire mainnet. Skywire consists of multiple components that all need to work together to allow the user to encrypt and successfully route traffic to peers, while still maintaining the ability to use applications on top of Skywire. The launch involved development of the following:
 
--   Auto Deployment Mechanism
--   General Improvements - CLI & User Nodes
--   Protocol Packet Confirmation
--   Skywire Updater
--   New Interface Additions
+* Auto Deployment Mechanism
+* General Improvements - CLI & User Nodes
+* Protocol Packet Confirmation
+* Skywire Updater
+* New Interface Additions
 
 ### Skywire Auto Deployment Mechanism
 
@@ -27,7 +27,6 @@ Improvements have been implemented for user-run nodes, creating solutions for bu
 
 On the protocol level we added acknowledgement (ACK) packets for routes. Since routes span multiple hops and rely on the forwarding efforts of other nodes, these ACK packets allow the sender of a packet to know whether the packet arrived at the intended destination. These ACK packets function similar to TCP ACKs.
 
-
 ### Skywire Updater
 
 We also released the Skywire updater within the Skywire software, which allows for a very convenient way to update the node. Skywire updater allows a user to call either the `Check` or the `Update` function, to check whether a new version of Skywire is available, and then to update to the new version. For now, these can only be called over the CLI, but they will be integrated with the Manager UI once it is updated. This allows the user to update conveniently, until we have integrated Skywire with the most common package managers.
@@ -40,7 +39,7 @@ On the frontend side, efforts have been ongoing to make improvements to the inte
 
 We will soon be publishing a more comprehensive documentation of the Skywire system on the Github repo wiki. We have also opened a new [Telegram group](https://t.me/SkywireMainnet) where interested devs can find support and discuss features and issues, etc.
 
-Documentation has mostly been added in the [Skywire wiki](https://github.com/skycoin/skywire/wiki). 
+Documentation has mostly been added in the [Skywire wiki](https://github.com/skycoin/skywire/wiki).
 
 **Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
 
@@ -53,4 +52,3 @@ Documentation has mostly been added in the [Skywire wiki](https://github.com/sky
 **Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
 
 **YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
-
