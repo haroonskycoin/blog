@@ -39,10 +39,10 @@ The project is moving ahead quickly, with Skywallet preparing for final security
 
 **Website:** [https://www.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
 
-**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "https://t.me/Skycoin")
 
-**Twitter:** [https://twitter.com/Skycoinproject](https://store.skycoin.net/ "https://store.skycoin.net/")
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
 
-**Reddit:** [https://reddit.com/r/Skycoin](https://store.skycoin.net/ "https://store.skycoin.net/")
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
 
-**YouTube:** [https://www.youtube.com/c/skycoin](https://store.skycoin.net/ "https://store.skycoin.net/")
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
