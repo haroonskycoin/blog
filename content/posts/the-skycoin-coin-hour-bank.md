@@ -33,7 +33,7 @@ Eventually, Coin Hours will be openly traded on exchanges and attain a market pr
 
 Stay tuned for further updates on this core component of the Skycoin Platform.
 
-{{< figure src="/img/Skywire-Skycoin.png" title="Skywire uses Skycoin as a payment mechanism via the Coin Hour Bank" >}}
+![](/img/Skywire-Skycoin.png)
 
 **Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
 
