@@ -1,17 +1,11 @@
 +++
-title = "Skywire Mainnet - Public Testing Announcement"
-tags = [
-    "Skywire",
-    "Statement",
-    "Announcements",
-]
+aliases = ["/skywire/skywire-mainnet-public-testing-announcement/"]
 date = "2019-03-04"
 image = "img/mainnet.jpg"
-aliases = [
-	"/skywire/skywire-mainnet-public-testing-announcement/"
-]
-+++
+tags = ["Skywire", "Statement", "Announcements"]
+title = "Skywire Mainnet - Public Testing Announcement"
 
++++
 Work on Skycoin began in 2011 with the merging of three separate projects that aimed to improve upon the design and implementation of Bitcoin. The Skycoin developers identified several major philosophical design issues that they saw as obstacles to global use of cryptocurrency as a censorship-resistant payment system.
 
 Skywire, the decentralized internet protocol and mesh network, was created as a solution to answer many of these problems.
@@ -30,19 +24,15 @@ Skywire mainnet’s developer build is the first release of many. Over the cours
 
 [Skywire Mainnet on Github](https://github.com/skycoin/skywire/tree/mainnet)
 
-*Please note: Do not install this on your skyminers as they are running testnet and will stop receiving rewards. Skywire mainnet can be installed on any other device to run, test and develop.*
+_Please note: Do not install this on your skyminers as they are running testnet and will stop receiving rewards. Skywire mainnet can be installed on any other device to run, test and develop._
 
 Bug reporting should be done through the repo, with steps taken to reproduce and any feedback. Details of the process will be available in the readme section of the branch.
-
-
 
 ### What’s Next For Skywire?
 
 * A new and intuitive UI for developers and users to easily interact with the mainnet
 * Bandwidth monetization will be coming soon that will allow users to earn Coin Hours through bandwidth sharing
-* Coin Hours bank
+* Coin Hour Bank
 * Private Skycoin transactions utilizing CoinJoin
 * Remote management of unlimited nodes
 * Combining the CXO protocol with Skywire for distributed data storage
-
-
