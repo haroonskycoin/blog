@@ -53,7 +53,7 @@ Skycoin’s consensus algorithm has no block-creation reward. People will run CX
 
 #### **What’s Next for the Mainnet?**
 
-The mainnet will be deployed in stages as the various components are implemented, tested and integrated. V1 continues to run over the internet, with proxy functionality. In the near future we’ll release a new and intuitive UI for developers and users to easily interact with the mainnet. The UI will allow you to manage an infinite amount of nodes remotely. This will be followed by the Coin Hour bank and a full bandwidth-sharing marketplace.
+The mainnet will be deployed in stages as the various components are implemented, tested and integrated. V1 continues to run over the internet, with proxy functionality. In the near future we’ll release a new and intuitive UI for developers and users to easily interact with the mainnet. The UI will allow you to manage an infinite amount of nodes remotely. This will be followed by the Coin Hour Bank and a full bandwidth-sharing marketplace.
 
 This first version of Skywire’s mainnet represents a huge milestone for Skycoin and for the future of the internet. Skywire will serve as a mainstay, highly resilient network, countering the threats of global censorship. Stay tuned for additional information, technical details, and frequent updates from the team.
 
