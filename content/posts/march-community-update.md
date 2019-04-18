@@ -23,7 +23,7 @@ Upcoming features for Skywire mainnet include:
 
 * A new intuitive UI for developers and users to easily interact with the mainnet
 * Bandwidth monetization will be coming soon that will allow users to earn Coin Hours through bandwidth sharing
-* Coin Hours bank
+* Coin Hour Bank
 * Skycoin transactions utilizing CoinJoin
 * Remote management of unlimited nodes
 * Port the CXO protocol onto Skywire for distributed data storage in preparation for the Obelisk consensus implementation
