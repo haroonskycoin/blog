@@ -37,7 +37,7 @@ The project is moving ahead quickly, with Skywallet preparing for final security
 
 **Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
 
-**Website:** [https://www.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
 
 **Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "https://t.me/Skycoin")
 
