@@ -1,6 +1,6 @@
 +++
 aliases = []
-date = "2019-04-17T00:00:00+00:00"
+date = "2019-04-18T00:00:00+00:00"
 description = "A primer on the Skycoin Coin Hour Bank."
 image = "/img/Coin Hour Bank cover-1.png"
 tags = ["Development", "Infographics", "Mainnet", "Skywire"]
