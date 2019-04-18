@@ -33,16 +33,16 @@ Eventually, Coin Hours will be openly traded on exchanges and attain a market pr
 
 Stay tuned for further updates on this core component of the Skycoin Platform.
 
-{{< figure src="/img/Skywire-Skycoin.png" title="Skywire uses Skycoin as a payment mechanism via the Coin Hour Bank" >}}
+{{< figure src="/img/Skywire-Skycoin.png" title="Skywire uses Coin Hours as a payment mechanism via the Coin Hour Bank" >}}
 
 **Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
 
-**Website:** [https://www.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
 
-**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin)
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "https://t.me/Skycoin")
 
-**Twitter:** [https://twitter.com/Skycoinproject](https://store.skycoin.net/ "https://store.skycoin.net/")
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/skycoinproject "https://twitter.com/skycoinproject")
 
-**Reddit:** [https://reddit.com/r/Skycoin](https://store.skycoin.net/ "https://store.skycoin.net/")
+**Reddit:** [https://reddit.com/r/Skycoin](https://www.reddit.com/r/skycoin/ "https://www.reddit.com/r/skycoin/")
 
-**YouTube:** [https://www.youtube.com/c/skycoin](https://store.skycoin.net/ "https://store.skycoin.net/")
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
