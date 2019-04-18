@@ -47,4 +47,4 @@ Stay tuned for further updates on this core component of the Skycoin Platform.
 
 **YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
 
-**Facebook:** [facebook.com/SkycoinOfficial](facebook.com/SkycoinOfficial "facebook.com/SkycoinOfficial")
+**Facebook:** [https://www.facebook.com/groups/skycoinofficial](https://www.facebook.com/groups/skycoinofficial "https://www.facebook.com/groups/skycoinofficial")
