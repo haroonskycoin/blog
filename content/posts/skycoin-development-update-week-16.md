@@ -2,7 +2,6 @@
 aliases = []
 date = "2019-04-19T00:00:00+00:00"
 description = "Weekly Skycoin Development Updates about Skywire, Skywallet and more. "
-draft = true
 image = "/img/Skycoin-devupdate-041919.png"
 tags = ["Development", "Skycoin"]
 title = "Skycoin Development Update - Week 16"
@@ -41,3 +40,19 @@ This week we have successfully handled the last of several high-priority issues 
 New work on Coinhour Bank has seen improvements to deposit and scanning flow, as well as for generating addresses. We have started the implementation of the admin dashboard and admin-related APIs. Admin access has almost been completed on the backend. Finally, we spent time researching the right way to go about integration tests. This can be especially challenging in deposit-related cases, so we are looking into a workaround for that.
 
 As mentioned above, we are looking forward to bringing news from last week’s Hackathon in the days to come. Meanwhile, progress continues on building a simpler, stronger, more secure Skycoin ecosystem.
+
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "Skycoin Store")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "Skycoin Website")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "Skycoin Telegram Mainchat")
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "Skycoin Twitter Profile")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "Skycoin Reddit")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "Skycoin Youtube Channel")
+
+**Facebook:** [https://www.facebook.com/groups/skycoinofficial](https://www.facebook.com/groups/skycoinofficial "Skycoin Facebook group")
+
+**LinkedIn:** [https://de.linkedin.com/company/skycoin](https://de.linkedin.com/company/skycoin "Skycoin LinkedIn")
