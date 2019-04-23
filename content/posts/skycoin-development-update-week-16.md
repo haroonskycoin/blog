@@ -35,9 +35,9 @@ This week [BIP 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawik
 
 This week we have successfully handled the last of several high-priority issues that proved difficult to resolve. Improvements continue for test cases, and we have made additional changes to the export functionality.
 
-### Coinhour Bank Updates:
+### Coin Hour Bank Updates:
 
-New work on Coinhour Bank has seen improvements to deposit and scanning flow, as well as for generating addresses. We have started the implementation of the admin dashboard and admin-related APIs. Admin access has almost been completed on the backend. Finally, we spent time researching the right way to go about integration tests. This can be especially challenging in deposit-related cases, so we are looking into a workaround for that.
+New work on Coin Hour Bank has seen improvements to deposit and scanning flow, as well as for generating addresses. We have started the implementation of the admin dashboard and admin-related APIs. Admin access has almost been completed on the backend. Finally, we spent time researching the right way to go about integration tests. This can be especially challenging in deposit-related cases, so we are looking into a workaround for that.
 
 As mentioned above, we are looking forward to bringing news from last week’s Hackathon in the days to come. Meanwhile, progress continues on building a simpler, stronger, more secure Skycoin ecosystem.
 
