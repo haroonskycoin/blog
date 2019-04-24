@@ -1,26 +1,22 @@
 +++
-title = "Development Update #10"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-10/"]
 date = "2014-03-23"
-aliases = [
-	"/development-updates/development-update-10/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "Development Update #10"
 
++++
 ## Summary:
-The new wire protocol is more work than expected. Instead of delaying launch by two weeks, to address these issues I am hacking together something that will get the network running.
+
+The new wire protocol is more work than expected. We are going to use a beta version of it to get the network runnning.
 
 ###### Multiple software components need to be be refactored:
 
-- Daemon needs to be extended to support multiple connection pools with independent peer exchange and using a common listening socket
-- gnet needs to be modified to support an introduction packet
-- gnet packet handling callbacks need to be embedded in the gnet object instead of globals, to allow multiple gnet instances in the same application
-- daemon DHT functionality for peer bootstrap needs to be abstracted to allow for retrieving bootstrap peers for multiple hashes.
-- The hashchain replicator wire protocol needs to be designed and implemented
-- The blob and hashchain replicators need to be abstracted on top of the new connection pool
+* Daemon needs to be extended to support multiple connection pools with independent peer exchange and using a common listening socket
+* gnet needs to be modified to support an introduction packet
+* gnet packet handling callbacks need to be embedded in the gnet object instead of globals, to allow multiple gnet instances in the same application
+* daemon DHT functionality for peer bootstrap needs to be abstracted to allow for retrieving bootstrap peers for multiple hashes.
+* The hashchain replicator wire protocol needs to be designed and implemented
+* The blob and hashchain replicators need to be abstracted on top of the new connection pool
 
 ## Announcement:
 
