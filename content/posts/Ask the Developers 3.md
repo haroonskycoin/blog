@@ -1,54 +1,54 @@
 +++
-title = "Ask the Developers #3"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-3/"]
 date = "2014-03-24"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
-aliases = [
-	"/ask-the-developers/ask-the-developers-3/"
-]
-+++
+tags = ["Ask the Developers"]
+title = "Ask the Developers #3"
 
++++
 # Ask the Developers - Session #3
 
 ### Comment:
 
 Quote from: td services on March 23, 2014, 04:01:09 PM
 ![](/img/ask-devs-3-1.jpg)
->Does the above display look right, or should I be seeing some numbers or transaction activity?
 
->I'm trying it out an ArchLinux install now to run it on Beaglebone once I get it running on Virtualbox on the Indiebox stack.
+> Does the above display look right, or should I be seeing some numbers or transaction activity?
+
+> I'm trying it out an ArchLinux install now to run it on Beaglebone once I get it running on Virtualbox on the Indiebox stack.
 
 ## Response:
 
 Yes. You have it working! The wallet gui is running a GTK window that embeds webkit. The wallet is HTML/Angular with a localhost golang webserver. That is what you are looking at. The wallet uses the JSON interface to check balances and do sends.
 
-- We don't have transaction history yet. You can check balance and do sends using the unspent output set, but transaction history requires parsing old blocks and putting it in a database.
-- The wallet RPC is currently being updated (in branch) to support multiple wallets and the new deterministic wallet seeds.
-- Then the wallet code will be updated to match the new RPC before launch
-- You can run a local blockchain, but the global testnet blockchain is not running right now.
-- There is a tool in ./compile/test-coverage that generates an HTML coverage test across repo
-- ./test.sh runs the unit tests for each module
-- you can generate addresses and test out deterministic wallets with `go run ./cmd/address_gen/address_gen.go -a -n=5 -seed="test"`. This tool needs some work. This prints 5 (pubkey, seckey, address) pairs generated from wallet seed "test"
+* We don't have transaction history yet. You can check balance and do sends using the unspent output set, but transaction history requires parsing old blocks and putting it in a database.
+* The wallet RPC is currently being updated (in branch) to support multiple wallets and the new deterministic wallet seeds.
+* Then the wallet code will be updated to match the new RPC before launch
+* You can run a local blockchain, but the global testnet blockchain is not running right now.
+* There is a tool in ./compile/test-coverage that generates an HTML coverage test across repo
+* ./test.sh runs the unit tests for each module
+* you can generate addresses and test out deterministic wallets with `go run ./cmd/address_gen/address_gen.go -a -n=5 -seed="test"`. This tool needs some work. This prints 5 (pubkey, seckey, address) pairs generated from wallet seed "test"
 
 Technically, we can launch testnet right now. Everything is working.  There are a few changes I wanted to make however
-- new wire protocol
-- reduce number of command line options
-- simplify module interfaces and take steps towards requirements for Obelisk integration
-- hardcode genesis block parameters into source instead of using configuration files
-- document JSON RPC that exchanges need
+
+* new wire protocol
+* reduce number of command line options
+* simplify module interfaces and take steps towards requirements for Obelisk integration
+* hardcode genesis block parameters into source instead of using configuration files
+* document JSON RPC that exchanges need
 
 After launch we have to
-- work on darknet
-- language translations for wallet
-- improvements to connection pool and wire protocol required for Obelisk
-- work on Obelisk and achieve full decentralization
-- blockchain explorer and transaction history
-- blockchain database module (for storing and querying transaction history)
-- benchmarks for blockchain parsing
+
+* work on darknet
+* language translations for wallet
+* improvements to connection pool and wire protocol required for Obelisk
+* work on Obelisk and achieve full decentralization
+* blockchain explorer and transaction history
+* blockchain database module (for storing and querying transaction history)
+* benchmarks for blockchain parsing
 
 The priorities are
+
 1. Get blockchain running and windows, osx and Linux binaries released
 2. Skycoin Darknet v0.2 Running
 3. progress towards Obelisk implementation
@@ -61,58 +61,39 @@ The code base is becoming very clean and modular. Skycoin will be much easier fo
 
 The new wallet and wallet rpc branch has been merged into the main branch.
 
-___
-
-## Comment:
-
-Quote from: **JessicaMILFson** on April 06, 2014, 09:59:55 PM
->Excellent, any possible info on eta of launch and has there been any changes in the fundraising model you proposed a long time ago
-
->Also we still sticking with skycoin as the name?
-
-## Response:
-
-Yes. We are not doing inflation anymore. It is too much work.
-
-We are hiring new developers after the ICO and will be selling coins to pay them. We wont sell off coins faster than the market can absorb and will decrease sell off rate if it affects the price negatively. Sell off rate will be variable.
-
-We may be giving out coins as an incentive to roll out the wifi network, which requires a density of people who are in range of each other. We will put a map online where people can add locations they can setup equipment and will give out 200 Skycoin for confirmed mesh links. We will choose a few test cities and may distribute a few hundred thousand dollars in coins this way.
-
-We have a lot of software to write, so we will be giving out bounties for projects that will drive adaption and will be hiring more developers.  We will also being doing more things after launch to engage the media and get favorable coverage in news outlets catering to groups that would benefit from adaption. We are hiring people to manage these media relationships and so it does not distract from development.
-
-We are pursuing multiple strategies to ensure adaption.  We are looking at two years of work post launch to get to where we want to be.
-
-Just the wallet project, getting support for multiple coins in the wallet, getting an exchange in the wallet, adding messaging and improving the user experience for purchases is going to take a full team a year of work. We are already starting on the third iteration of the wallet GUI, but will postpone major changes until after launch.
-
-___
+***
 
 ## Comment:
 
 Quote from: **td services** on April 06, 2014, 11:54:04 PM
->I'm negotiating to buy and resell the quad core ARM Odroid and/or NanoPC boards to run Skycoin and other PoS coin nodes for a mesh darknet, personal/public cloud storage, and encrypted VOIP. The boards are at http://hardkernel.com/main/main.php and http://nanopc.org/NanoPC-T1_Feature.html . A Ubuntu 12.04 build is already available for them, which I also have running with Skycoin on Virtualbox. I'm considering setting up a bunch of these in the Mission District of SF to start a cryptocoin based meshnet, so the proposed Skycoin subsidy would be a boon for this.
 
->An $8 wi-fi USB module is available. Anyone have any idea if I should have 2 Wi-Fi radios per unit? Maybe even 3 if using 802.11b or g, 1 for each distinct channel, 1, 6, and 11. Directional antennas would be better, but will require a pricier Wi-Fi module.
+> I'm negotiating to buy and resell the quad core ARM Odroid and/or NanoPC boards to run Skycoin and other PoS coin nodes for a mesh darknet, personal/public cloud storage, and encrypted VOIP. The boards are at http://hardkernel.com/main/main.php and http://nanopc.org/NanoPC-T1_Feature.html . A Ubuntu 12.04 build is already available for them, which I also have running with Skycoin on Virtualbox. I'm considering setting up a bunch of these in the Mission District of SF to start a cryptocoin based meshnet, so the proposed Skycoin subsidy would be a boon for this.
 
->Looks like not all dongles are created equal as far as using as an access point, http://forum.odroid.com/viewtopic.php?f=8&t=1952 . Their Wi Fi 3 does have a threaded connector and is 802.11n, but antenna is an omni. I'd rather have 3 radios with 120 degree sector antennas for 360 coverage with 3 channels.
+> An $8 wi-fi USB module is available. Anyone have any idea if I should have 2 Wi-Fi radios per unit? Maybe even 3 if using 802.11b or g, 1 for each distinct channel, 1, 6, and 11. Directional antennas would be better, but will require a pricier Wi-Fi module.
+
+> Looks like not all dongles are created equal as far as using as an access point, http://forum.odroid.com/viewtopic.php?f=8&t=1952 . Their Wi Fi 3 does have a threaded connector and is 802.11n, but antenna is an omni. I'd rather have 3 radios with 120 degree sector antennas for 360 coverage with 3 channels.
 
 ## Response:
 
 For hardware:
-- Edimax EW-7811Un (good linux support)
-- TP-LINK TL-WN722N (external antenna support for long distance directional links)
-- Ubiquiti Nanostation routers (1 mile range line of sight, $80 each)
-- Ubiquity AirFiber (15 mile ranges, 1.4 Gb/s, $1500)
-- TP-LINK TL-ANT2424B 24dBi 60 cm Directional Grid Parabolic Antenna (10 mile range line of sight)
+
+* Edimax EW-7811Un (good linux support)
+* TP-LINK TL-WN722N (external antenna support for long distance directional links)
+* Ubiquiti Nanostation routers (1 mile range line of sight, $80 each)
+* Ubiquity AirFiber (15 mile ranges, 1.4 Gb/s, $1500)
+* TP-LINK TL-ANT2424B 24dBi 60 cm Directional Grid Parabolic Antenna (10 mile range line of sight)
 
 The subsidy will be about $200/access point.
 
 We need libraries in golang for controlling the wifi devices from linux, scanning for networks, connecting to them, disconnecting.
 
-___
+***
 
 ## Comment:
+
 Quote from: **l4p7** on April 07, 2014, 11:08:30 AM
->Can someone explain what the services are Skycoin will provide? By services I mean "remittance" or e-commerce / micro transactions which Bitcoin enables? Is Skycoin another Bitcoin with own code base that overcomes the design flaws of POW/Bitcoin? How does it enable mesh networks? And will Skycoin have applications beyond mesh networks?
+
+> Can someone explain what the services are Skycoin will provide? By services I mean "remittance" or e-commerce / micro transactions which Bitcoin enables? Is Skycoin another Bitcoin with own code base that overcomes the design flaws of POW/Bitcoin? How does it enable mesh networks? And will Skycoin have applications beyond mesh networks?
 
 ## Response:
 
@@ -128,30 +109,29 @@ You generate a public key and only the person with the private key can mint new 
 
 Skycoin is not just a coin, but a set of libraries and standards.
 
----
+***
 
 ## Comment:
 
 Quote:
->You would need a wallet that has an inherent market for that. Or would you just allow users to hold all kinds of coins in the one wallet and let them then spend whatever coin is required at a given exchange rate?
 
->The personal blockchains base, the wallet and all that is quite a big endeavour. What development time did you plan for all this?
+> You would need a wallet that has an inherent market for that. Or would you just allow users to hold all kinds of coins in the one wallet and let them then spend whatever coin is required at a given exchange rate?
+
+> The personal blockchains base, the wallet and all that is quite a big endeavour. What development time did you plan for all this?
 
 Ethereum and several other projects are already using libraries that were developed under the Skycoin project.
 
->Can you point me to those libraries and/or a prove of Ethereum using them? Sorry for the dumb questions. Due diligence is necessary at a place where anonymous developers are doing ICOs...
+> Can you point me to those libraries and/or a prove of Ethereum using them? Sorry for the dumb questions. Due diligence is necessary at a place where anonymous developers are doing ICOs...
 
-
-
->Thanks and kind Regards
+> Thanks and kind Regards
 
 ## Response:
 
->You would need a wallet that has an inherent market for that. Or would you just allow users to hold all kinds of coins in the one wallet and let them then spend whatever coin is required at a given exchange rate?
+> You would need a wallet that has an inherent market for that. Or would you just allow users to hold all kinds of coins in the one wallet and let them then spend whatever coin is required at a given exchange rate?
 
 We are able to expose exchanges as a Skycoin "service" in the wire protocol. There will be a single API and multiple exchanges implementing the API. Any exchange that runs an exchange service will be discoverable and automatically usable by the wallet. This is part of the "Gateway Protocol".
 
->. What development time did you plan for all this?
+> . What development time did you plan for all this?
 
 Personal blockchains are done.
 
@@ -163,10 +143,4 @@ Exchange service is part of the "gateway protocol". The gateway protocol require
 
 We received pull request from them and they resolved the gmp dependency bug we had for OSX, so I am assuming they are using some of our libraries. Not too familiar with the code base. There are a number of golang coins in development and the toolchain is evolving faster than the Bitcoin mainline tool chain.
 
----
-
-
-
-
-
-
+***
