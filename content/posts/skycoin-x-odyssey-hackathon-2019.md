@@ -26,11 +26,11 @@ In the event of a disaster, such as a fire or an earthquake, that interrupted th
 
 ![](/img/Dashboard.jpg)
 
-Three intense days of furious hacking saw a successful solution deployed by the team. Skywire was integrated with the Hiber satellite network to create a truly multi-tiered mesh network that doesn’t rely on traditional Internet infrastructure and the app worked beautifully on top of that. Challenge met. Goals achieved.
+In the event of a disaster, such as a fire or an earthquake, that interrupted the regular communications networks, the chat app could be switched to emergency mode from where it would connect to the Hummingbird meshnet and enable communication with first responders.
 
 ![](/img/Skycoin_Odyssey-4.jpg)
 
-Great fun was had by all and we thank Odyssey for this marvellous opportunity to demonstrate the validity and flexibility of the teams’ combined technologies in actual real-world use case scenarios. We will definitely be back next year.
+Three intense days of furious hacking saw a successful solution deployed by the team. Skywire was integrated with the Hiber satellite network to create a truly multi-tiered mesh network that doesn’t rely on traditional Internet infrastructure and the app worked beautifully on top of that. Challenge met. Goals achieved.
 
 ![](/img/Skycoin_Odyssey-50.jpg)
 
