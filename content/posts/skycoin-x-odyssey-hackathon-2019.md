@@ -12,6 +12,8 @@ Google ‘Odessey Hackathon’ and you will find an event billed as the world's 
 
 {{< youtube pWW3FMgB5xc >}}
 
+<br>
+
 For the 2019 challenge, Skycoin partnered with Milvum which is a development house hailing from The Hague and with Hiber, a startup focussed on low cost, low energy communications satellites. Through the partnership, we demonstrated Skywire’s functionality in conjunction with other cutting edge technology.
 
 The team competed in the disaster relief track and elected to solve the specific challenge of “[Co-creating and sharing validated data during a disaster](https://www.odyssey.org/ifv-challenge-sharing-validated-data-during-disaster/ "Odyssey Challenge")”. The challenge called on teams to create a redundant communication system that could be used by emergency teams to collect data from the public in order to obtain a comprehensive, validated picture of the situation on the ground.
