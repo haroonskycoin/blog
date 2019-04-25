@@ -21,7 +21,6 @@ The team competed in the disaster relief track and elected to solve the specific
 
 Dubbed Hummingbird, the team's solution was to deploy a Skywire meshnet across the area and integrate it with Hiber satellite nodes. The application layer consisted of a mobile chat app that provided emergency relay functionality.
 
-In the event of a disaster, such as a fire or an earthquake, that interrupted the regular communications networks, the chat app could be switched to emergency mode from where it would connect to the Hummingbird meshnet and enable communication with first responders
 
 ![Emergency dashboard](/img/Dashboard.jpg "The first responder's emergency dashboard")
 
