@@ -31,3 +31,19 @@ Three intense days of furious hacking saw a successful solution deployed by the 
 Great fun was had by all and we thank Odyssey for this marvellous opportunity to demonstrate the validity and flexibility of the teams’ combined technologies in actual real-world use case scenarios. We will definitely be back next year.
 
 ![](/img/Skycoin_Odyssey-50.jpg)
+
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "Skycoin Telegram Mainchat")
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
+
+**Facebook:** [https://www.facebook.com/groups/skycoinofficial](https://www.facebook.com/groups/skycoinofficial "https://www.facebook.com/groups/skycoinofficial")
+
+**LinkedIn:** [https://de.linkedin.com/company/skycoin](https://de.linkedin.com/company/skycoin "https://de.linkedin.com/company/skycoin")
