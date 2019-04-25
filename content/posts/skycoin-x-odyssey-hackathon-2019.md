@@ -1,6 +1,6 @@
 +++
 aliases = []
-date = "2019-04-24T00:00:00+00:00"
+date = "2019-04-25T00:00:00+00:00"
 description = "Skycoin participated successfully in Odyssey 2019 - the world's biggest Blockchain and AI hackathon."
 image = "/img/Odyssey-skycoin.png"
 tags = ["Skywire", "Development", "Community"]
