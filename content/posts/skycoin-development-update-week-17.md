@@ -2,7 +2,6 @@
 aliases = []
 date = "2019-04-26T00:00:00+00:00"
 description = "Summary of the development of Skycoin, Skywire and the Skywallet. "
-draft = true
 image = "/img/Skycoin-devupdate-042619.png"
 tags = ["Development", "Skycoin", "Skywire"]
 title = "Skycoin Development Update - Week 17"
@@ -31,3 +30,19 @@ Other improvements include display fixes for deposit addresses, transactions, an
 Whitelist updates this week include new, improved test cases and an updated miner condition check for an edge case, as well as miscellaneous tests and changes.
 
 The coming week should see continued simplifications to Skywire and progress on Coin Hour Bank’s new design. Be sure to check back for news of the next few days of development!
+
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "Skycoin Telegram Mainchat")
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
+
+**Facebook:** [https://www.facebook.com/groups/skycoinofficial](https://www.facebook.com/groups/skycoinofficial "https://www.facebook.com/groups/skycoinofficial")
+
+**LinkedIn:** [https://de.linkedin.com/company/skycoin](https://de.linkedin.com/company/skycoin "https://de.linkedin.com/company/skycoin")
