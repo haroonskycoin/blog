@@ -1,15 +1,10 @@
 +++
-title = "Development Update #130"
-tags = [
-    "Development",
-    "Infographics",
-]
+aliases = ["/development-updates/development-update-130/"]
 date = "2017-05-15"
-aliases = [
-	"/development-updates/development-update-130/"
-]
-+++
+tags = ["Development", "Infographics"]
+title = "Skycoin Market Bot and C2CX Listing"
 
++++
 ## Skycoin Market Making Bot:
 
 We have a market making bot, that will sit on the bid/ask for skycoin for the following exchanges
