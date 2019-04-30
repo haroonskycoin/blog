@@ -1,14 +1,10 @@
 +++
-title = "Development Update #1"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-1/"]
 date = "2014-01-01"
-aliases = [
-	"/development-updates/development-update-1/"
-]
-+++
+tags = ["Development"]
+title = "Skycoin: A New Hope"
 
++++
 ## Summary:
 
 - Rational for eliminating mining from Skycoin was added to initial prospectus
@@ -36,6 +32,3 @@ aliases = [
 - We are translating the wallet into Chinese.
 - Wallet team is working on the JSON RPC
 - Team is working on cryptographically secure messaging between wallets using Skycoin addresses. Skycoin addresses can act as email addresses and can send and receive messages securely. Working on "Identity Address" and "Wallet Address" RPCs.
-
-
-
