@@ -1,16 +1,10 @@
 +++
-title = "Development Update #117"
-tags = [
-    "Development",
-    "BBS",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-117/"]
 date = "2016-11-23"
-aliases = [
-	"/development-updates/development-update-117/"
-]
-+++
+tags = ["Development", "BBS", "Skywire"]
+title = "Skycoin Social Platform Launch"
 
++++
 ## Summary:
 
 We are launching our own post blockchain social platform. Starting with an immutable object replication system, inspired by Urbit and IPFS. Which is designed for decentralized social networking and source independent networking.
