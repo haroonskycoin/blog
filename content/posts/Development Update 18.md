@@ -1,15 +1,11 @@
 +++
-title = "Development Update #18"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-18/"]
 date = "2014-04-26"
-aliases = [
-	"/development-updates/development-update-18/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #18: Skywire is Now in Alpha"
 
++++
 ## Skywire
 
 Everything was working in January; launch has been delayed because of refactoring. We are exhausted because of coding coin. Everyone wants to get coin over with and get meshnet working. We can get a lot of press on reddit by delivering the meshnet. People are rioting because of Comcast/net neutrality right now.
