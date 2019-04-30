@@ -1,14 +1,11 @@
 +++
-title = "Development Update #66"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-66/"]
 date = "2015-04-13"
-aliases = [
-	"/development-updates/development-update-66/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #66: An overview of Skywire"
 
++++
 The network is running. Fixed a bunch of bugs.
 
 ## Structure of Skycoin Networking:
@@ -138,4 +135,3 @@ It is ironic that the network of the future, is going back to Unix-to-Unix Copy.
 In Bitcoin, PoW is baked into the block headers. You cannot change Bitcoin consensus method without invalidating the whole blockchain. In Skycoin, consensus is flexible, can be changed later. Skycoin will use an open network of nodes, but a bank may fork it and decide to run customer account balances in Euro on a Skycoin chain, but will only use a closed set of bank servers for the consensus process.
 
 Outputs/Transactions are designed to be independent of the blockchain. This means that a ledger of transactions can be migrated from one ledger, to a new ledger when needed. This is to ensure that Skycoin ownership and balances are preserved, while enabling upgrades in the future.
-

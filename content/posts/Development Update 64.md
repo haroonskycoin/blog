@@ -1,16 +1,11 @@
 +++
-title = "Development Update #64"
-tags = [
-    "Development",
-    "CXO",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-64/"]
 date = "2015-04-02"
-aliases = [
-	"/development-updates/development-update-64/"
-]
-+++
+draft = true
+tags = ["Development", "CXO", "Skywire"]
+title = "Development Update #64: Skycoin Merkle-dag System"
 
++++
 ## IPFS Demo:
 
 This is IPFS. This is the successor to Bitorrent.
