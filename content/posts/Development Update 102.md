@@ -1,16 +1,10 @@
 +++
-title = "Development Update #102"
-tags = [
-    "Development",
-    "CXO",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-102/"]
 date = "2016-05-31"
-aliases = [
-	"/development-updates/development-update-102/"
-]
-+++
+tags = ["Development", "CXO", "Skywire"]
+title = "Updates to CX and Skywire"
 
++++
 The first packet over the VPN, connected through the meshnet worked yesterday.
 - This is a major project milestone.
 - We have a multi-hop VPN client running over the Skycoin meshnet namespace. This is the first multi-hop VPN that I know of.
