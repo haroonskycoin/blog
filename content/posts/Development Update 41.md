@@ -1,15 +1,11 @@
 +++
-title = "Development Update #41"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-41/"]
 date = "2014-10-31"
-aliases = [
-	"/development-updates/development-update-41/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #41: Tutorials, Reflections and Requirements"
 
++++
 ## Summary:
 
 Everything is going very rapidly. We will be out of new things to code within a finite amount of time on the current trajectory. All the project goals will have been achieved and then we need to figure out what happens next.

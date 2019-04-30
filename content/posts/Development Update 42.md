@@ -1,14 +1,11 @@
 +++
-title = "Development Update #42"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-42/"]
 date = "2014-11-12"
-aliases = [
-	"/development-updates/development-update-42/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #42: Skycoin Security Concerns and Measures"
 
++++
 The recent attacks on Tor and incidents with Bitcoin are putting pressure on us to release.
 
 ##### Changes
