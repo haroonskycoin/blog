@@ -1,14 +1,11 @@
 +++
-title = "Development Update #38"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-38/"]
 date = "2014-09-23"
-aliases = [
-	"/development-updates/development-update-38/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #38: Darknet Infrastructure Update"
 
++++
 ## Summary:
 
 Two separate people are independently working on the distribution script. Should get done soon.
