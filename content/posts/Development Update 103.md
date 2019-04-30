@@ -1,15 +1,10 @@
 +++
-title = "Development Update #103"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-103/"]
 date = "2016-08-17"
-aliases = [
-	"/development-updates/development-update-103/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "Skywire Updates and Improvements to the Skycoin Wallet"
 
++++
 ## Exchange:
 
 Exchange is done

@@ -1,14 +1,10 @@
 +++
-title = "Development Update #104"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-104/"]
 date = "2016-08-30"
-aliases = [
-	"/development-updates/development-update-104/"
-]
-+++
+tags = ["Development"]
+title = "Consensus and Generating Skycoin Wallet Addresses"
 
++++
 The builds are on the website, www.skycoin.net
 
 The electron builds use Electron for the gui.
