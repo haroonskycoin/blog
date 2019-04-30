@@ -1,15 +1,11 @@
 +++
-title = "Development Update #7"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-7/"]
 date = "2014-03-11"
-aliases = [
-	"/development-updates/development-update-7/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #7: Skywire Protocol Update"
 
++++
 ## Development Updates:
 
 We are updating the Skywire protocol. This is the last thing on checklist before launch.
