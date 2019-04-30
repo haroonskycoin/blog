@@ -1,14 +1,11 @@
 +++
-title = "Development Update #46"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-46/"]
 date = "2014-12-19"
-aliases = [
-	"/development-updates/development-update-46/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #46: Skycoin Roadmap for 2015"
 
++++
 The coin was done in January. The only difference if we launched today would be the coin would be trading. There are a few things missing on github, so no one can compile it and launch it before us, without knowing how to program.
 
 ## Roadmap For 2015
@@ -44,4 +41,3 @@ For instance, once you can publish data with your public key and have it peer-to
 The overlay network will be running on software, over the normal internet. Then you will want to add mesh or physical links and that is when the hardware meshnet can start. Then there has to be antenna development, hardware development projects. We have to find people who can do hardware. This is when money helps, is for funding this.
 
 So we are entering a phase where there will be a lot for developers to do. Right now we are only working on those three things.
-
