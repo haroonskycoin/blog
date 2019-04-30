@@ -1,14 +1,11 @@
 +++
-title = "Development Update #37"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-37/"]
 date = "2014-08-09"
-aliases = [
-	"/development-updates/development-update-37/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #37: Organization Update"
 
++++
 ## Organizational Update:
 
 The original plan was to put it on Aether, however it will be months before that is working. The networking refactor was a major headache, was a massive amount of work and ended up going nowhere, but took four months. The upside is that we have a very clear architecture now.
@@ -85,4 +82,3 @@ Once that is is in place, we can launch. Its a small series of changes.
 Then everything is in place for "ghetto consensus" which is a simplified form of the consensus algorithm which is easy to implement (and better than Ripple) but which is just a place holder. Ghetto consensus is being replaced with a version built on top of the Merkle-DAG system, once the library is implemented, then incremental changes made until it achieves the security properties against the known attack scenarios.
 
 After "ghetto consensus" is working, focus will shift to distributed applications and meshnet for a while.
-
