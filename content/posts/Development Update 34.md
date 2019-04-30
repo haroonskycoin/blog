@@ -1,15 +1,11 @@
 +++
-title = "Development Update #34"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-34/"]
 date = "2014-07-18"
-aliases = [
-	"/development-updates/development-update-34/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #34: Skycoin Github Repository and the Skywire Switch"
 
++++
 ## Summary:
 
 Massive changes. Everything is now in one repository. https://github.com/skycoin/skycoin
@@ -91,4 +87,3 @@ Marketing, websites and so on will be handed over to members of community as soo
 ## Skycoin Coin Distribution
 
 The coin distribution website is under development now. It will not be anything complicated because there is no time. The coins is launching as soon as visor is running on the new distributed applications library.
-
