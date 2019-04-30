@@ -1,14 +1,11 @@
 +++
-title = "Development Update #13"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-13/"]
 date = "2014-04-10"
-aliases = [
-	"/development-updates/development-update-13/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "The \"Services\" Architecture Prototype"
 
++++
 ## Summary:
 
 The "services" architecture prototype is done.
