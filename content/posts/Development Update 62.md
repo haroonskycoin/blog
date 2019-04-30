@@ -1,15 +1,11 @@
 +++
-title = "Development Update #62"
-tags = [
-    "Development",
-    "Skycoin",
-]
+aliases = ["/development-updates/development-update-62/"]
 date = "2015-03-26"
-aliases = [
-	"/development-updates/development-update-62/"
-]
-+++
+draft = true
+tags = ["Development", "Skycoin"]
+title = "Development Update #62: Skycoin Bug Fixes"
 
++++
 You have to nuke the blockchain files in .skycoin again. `rm ~/.skycoin/blockchain*`
 
 ### Skycoin Transaction Format:
