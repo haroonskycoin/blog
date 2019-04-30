@@ -1,14 +1,11 @@
 +++
-title = "Development Update #61"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-61/"]
 date = "2015-03-13"
-aliases = [
-	"/development-updates/development-update-61/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #61: Skycoin Bug Fixes"
 
++++
 ## Summary
 
 Two days were spent fixing a bug with where "req.ParseMultipartForm()" needed to be called instead of "req.ParseForm()" because URL get/post parameters were not showing up correctly in logs. The url was working in unit tests, but was broken in wallet gui and still trying to determine reason. As soon as this is fixed, will begin sending out test coins.
