@@ -1,14 +1,11 @@
 +++
-title = "Development Update #27"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-27/"]
 date = "2014-06-23"
-aliases = [
-	"/development-updates/development-update-27/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #27: Aether, Bounties and Distributed Twitter"
 
++++
 ## Summary:
 
 Aether is coming along well. Soon development discussion will be moved into Aether. Coin bounties will be assigned for developing communication tools on Aether.

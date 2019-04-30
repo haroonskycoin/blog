@@ -1,15 +1,11 @@
 +++
-title = "Development Update #28"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-28/"]
 date = "2014-06-29"
-aliases = [
-	"/development-updates/development-update-28/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #28: Skywire and Skycoin Application Framework"
 
++++
 ## Skywire Meshnet
 
 The design is amazing. Skywire darknet router may be able to replace BGP and existing corporate VPN solutions. Its reverse comparable with IPv6 (IPv6 can be embedded over Skywire). Its very simple.
