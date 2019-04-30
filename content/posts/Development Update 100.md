@@ -1,14 +1,11 @@
 +++
-title = "Development Update #100"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-100/"]
 date = "2016-03-30"
-aliases = [
-	"/development-updates/development-update-100/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #100"
 
++++
 Some of the developers had problem with management style and were confused about what needed to be done. Now I am trying
 - I assigned one thing to each developer
 - I narrowed the task down to be very simple and self contained
