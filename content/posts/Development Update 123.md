@@ -1,15 +1,10 @@
 +++
-title = "Development Update #123"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-123/"]
 date = "2017-01-27"
-aliases = [
-	"/development-updates/development-update-123/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "Skycoin: Attack of the Bugs 5"
 
++++
 We fixed eighty wallet bugs. Look at commits on github.
 
 The CLI is substantially upgraded and automated deposits and withdrawals are working now. Hundreds of changes and improves to the Skycoin CLI interface.
