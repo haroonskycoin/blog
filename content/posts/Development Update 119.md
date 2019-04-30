@@ -1,14 +1,10 @@
 +++
-title = "Development Update #119"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-119/"]
 date = "2016-12-06"
-aliases = [
-	"/development-updates/development-update-119/"
-]
-+++
+tags = ["Development"]
+title = "Skycoin Development Operations"
 
++++
 ## DevOps
 
 ###### We have ansible scripts and docker containers for automating deployment.
@@ -88,4 +84,3 @@ DNS Is completely insecure and broken. DNS is completely unencrypted and 3rd par
 We also had failed DNS resolution cause an inability to access STUN servers, so the node was unable to determine its public facing IP address.
 
 China's cyber security policy appears to include blocking every overseas resource (such as docker), controlled or owned by an entity subject to US/NATO national security orders. Unreliable networking causes a slew of meaningless Docker errors that the program is not designed to handle.
-
