@@ -1,14 +1,11 @@
 +++
-title = "Development Update #63"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-63/"]
 date = "2015-04-01"
-aliases = [
-	"/development-updates/development-update-63/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #63: Skycoin: the Rolex of Crypto"
 
++++
 If you know your wallet seed, you will be fine. You can open up the wallets with text editor and grab the seed. As long as you have this value, your wallet can never be lost. You can also just copy and paste the wallet directory.
 
 Eventually, I want to change the wallet deterministic generation function to SHA3/Keccak sponge function based instead of SHA256, but it is too late for this. It is best to not make major changes like this at beginning. In a year or so, there may be a major overhaul of the wallet.
@@ -80,4 +77,3 @@ When the Skycoin project started, we took the best tools available and began the
 - etc...
 
 Most of these things were driven by external events and became requirements for any new coin, rather than "features" . The amount of new things that need to be designed and implemented, left me feeling like an insane watch maker who was forced to invent a nuclear reactor to get tritium, just to build the perfect watch. The existing materials and libraries were everywhere insufficient. The scope of the project is becoming clear and its is very large. We are finally getting a clear perspective of everything that needs to be done.
-
