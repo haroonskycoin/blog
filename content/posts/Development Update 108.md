@@ -1,14 +1,10 @@
 +++
-title = "Development Update #108"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-108/"]
 date = "2016-10-12"
-aliases = [
-	"/development-updates/development-update-108/"
-]
-+++
+tags = ["Development"]
+title = "Website, White papers and Blockchain Explorer"
 
++++
 ##### We want to have everything done for the coin in three weeks:
 - The three white papers
 - The website
