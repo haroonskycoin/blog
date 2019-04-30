@@ -1,15 +1,10 @@
 +++
-title = "Development Update #133"
-tags = [
-    "Development",
-    "Skyminer",
-]
+aliases = ["/development-updates/development-update-133/"]
 date = "2017-06-13"
-aliases = [
-	"/development-updates/development-update-133/"
-]
-+++
+tags = ["Development", "Skyminer"]
+title = "Skycoin: Introducing the Skyminer"
 
++++
 Update:
 
 ## Comment:
