@@ -1,14 +1,11 @@
 +++
-title = "Development Update #14"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-14/"]
 date = "2014-04-13"
-aliases = [
-	"/development-updates/development-update-14/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #14: Skycoin Personal Blockchains are Done"
 
++++
 ## Summary:
 
 ###### Personal blockchains are done:
