@@ -1,15 +1,10 @@
 +++
-title = "Development Update #11"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-11/"]
 date = "2014-03-31"
-aliases = [
-	"/development-updates/development-update-11/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "The New Skywire Protocol 2"
 
++++
 ## Summary:
 Most of the work in last week has been in the new wire protocol repo. Should be on github soon.
 
@@ -64,5 +59,3 @@ One developer merged in the new wallet RPC and the wallet GUI developer has not 
 The new wallet JSON interface allows loading and using multiple wallets in the same client, but broke the wallet GUI.
 
 The wallet developer will fix this tomorrow.
-
-
