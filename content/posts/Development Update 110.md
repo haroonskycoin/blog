@@ -1,14 +1,10 @@
 +++
-title = "Development Update #110"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-110/"]
 date = "2016-10-19"
-aliases = [
-	"/development-updates/development-update-110/"
-]
-+++
+tags = ["Development"]
+title = "Coin and Website Nearing Completion"
 
++++
 ## Now that:
 - The coin is almost done
 - The website is almost done
