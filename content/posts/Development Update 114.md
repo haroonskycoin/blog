@@ -1,15 +1,10 @@
 +++
-title = "Development Update #114"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-114/"]
 date = "2016-11-04"
-aliases = [
-	"/development-updates/development-update-114/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "Community, Website and Skywire Update"
 
++++
 ## Summary:
 - We need to fix the GUI on the dev branch.
 - We need to debug the CLI (command line interface, for exchange))

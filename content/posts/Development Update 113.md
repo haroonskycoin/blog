@@ -1,14 +1,10 @@
 +++
-title = "Development Update #113"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-113/"]
 date = "2016-11-03"
-aliases = [
-	"/development-updates/development-update-113/"
-]
-+++
+tags = ["Development"]
+title = "SKY Wallet Update"
 
++++
 ## Wallet Development
 
 The password feature is "wallet encryption". We are still implementing wallet encryption. Wallet encryption will encrypt your private keys and the seed, so that if the wallet file is stolen, no one can spend your coins, without knowing the password. We are using sha256 + secp256k1hash (very slow on ASIC, GPU, CPU 1000x attempts per second max) for password derivation function and then ChaCha20.
