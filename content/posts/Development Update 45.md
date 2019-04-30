@@ -1,14 +1,11 @@
 +++
-title = "Development Update #45"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-45/"]
 date = "2014-12-17"
-aliases = [
-	"/development-updates/development-update-45/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #45: Skycoin Utility and Price Control"
 
++++
 The Skycoin project is larger than "clone litecoin, change logo and call it Dogecoin". There are multiple parts and it took time from going from a single coder or small group of coders to a structure that can handle the multiple parts of the project. Then there is a larger architectural issue, about what the scope of the project is, what the long term goals are and what the objective for a second generation crypto-currency should be.
 
 Just the coin itself is a massive undertaking. The scope and architecture of the coin has changed significantly over the last two years. Issues such as usability, what the API should look like, security issues, determinism, what the components are and how they should interact. During development we identified several hundred different aspects of the coin, which are individually very involved and each affected other components and design choices subtlety.
