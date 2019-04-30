@@ -1,16 +1,11 @@
 +++
-title = "Development Update #43"
-tags = [
-    "Development",
-    "Consensus",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-43/"]
 date = "2014-12-09"
-aliases = [
-	"/development-updates/development-update-43/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus", "Skywire"]
+title = "Development Update #43: Consensus, Mesh-net and Skycoin Core Update"
 
++++
 ## Consensus Algorithm
 
 We have a new member on team focused on the consensus algorithm. His work has been great and we are making a lot of progress.
