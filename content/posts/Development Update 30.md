@@ -1,15 +1,11 @@
 +++
-title = "Development Update #30"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-30/"]
 date = "2014-07-10"
-aliases = [
-	"/development-updates/development-update-30/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #30: Skywire Mesh-net News and Multihoming"
 
++++
 ## Summary:
 
 IPv6 support is working. We were having trouble before. Many of the residential routers appear as IPv4 but actually have IPv6 public IP addresses and are IPv4 NATs.
