@@ -1,14 +1,11 @@
 +++
-title = "Development Update #68"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-68/"]
 date = "2015-04-18"
-aliases = [
-	"/development-updates/development-update-68/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #68: Skycoin: Attack of the Bugs 1"
 
++++
 ## New Bugs:
 
 - If you try to send and the send fails because of insufficient coins, it did not give a popup and only printed error in terminal. That is fixed now.

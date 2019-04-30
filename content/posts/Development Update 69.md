@@ -1,14 +1,11 @@
 +++
-title = "Development Update #69"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-69/"]
 date = "2015-04-19"
-aliases = [
-	"/development-updates/development-update-69/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #69: Skycoin: Attack of the Bugs 2"
 
++++
 ##### There was a "disappearing coins" bug on windows.
 - You download all ~120 blocks, you see 100 coins
 - You close client, there is not sig signal for clear program exit triggered on windows, so you lose all the blocks (they are not saved to disc, like they are on exit, on linux)
