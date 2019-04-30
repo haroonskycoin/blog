@@ -1,15 +1,10 @@
 +++
-title = "Development Update #107"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-107/"]
 date = "2016-10-10"
-aliases = [
-	"/development-updates/development-update-107/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "Mobile API is Done"
 
++++
 The Skycoin Mobile wallet API is done. For Bitcoin and Skycoin. Will add Litecoin, Dogecoin and Ethereum later.
 - https://github.com/skycoin/skycoin-exchange/tree/master/src/api/mobile
 - The library is wrapped with gobind and can be used as a plug-in in Phonegap applications or natively by Android or iOS applications
@@ -170,4 +165,3 @@ This can occur within a single process or program (such as rendering a web-page)
 There are some thing I do not believe should be open sourced. It would be problematic.
 
 It is interesting to see Open Whisper Systems and Matrix starting to implement cryptographic ratchets.
-
