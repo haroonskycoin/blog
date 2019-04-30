@@ -1,13 +1,11 @@
 +++
-title = "Ask the Developers #8"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-8/"]
 date = "2016-12-25"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
-aliases = [
-	"/ask-the-developers/ask-the-developers-8/"
-]
+draft = true
+tags = ["Ask the Developers"]
+title = "Ask the Developers #8"
+
 +++
 ## Comment:
 
@@ -273,4 +271,3 @@ For visibility. That will require about a 20x increase in price over the ICO pri
 So I think that is a modest and achievable goal for the next milestone.
 
 Achieving a wider coin distribution, will have to wait until we have the user base to support the distribution without putting downward pressure on the price. I do not think we can do that in the next milestone, while still keeping the coin supply tight.
-

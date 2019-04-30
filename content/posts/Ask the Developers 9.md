@@ -1,14 +1,11 @@
 +++
-title = "Ask the Developers #9"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-9/"]
 date = "2017-04-13"
-aliases = [
-	"/ask-the-developers/ask-the-developers-9/"
-]
-+++
+draft = true
+tags = ["Ask the Developers"]
+title = "Ask the Developers #9"
 
++++
 ## Comment:
 
 Quote from: **solix** on April 08, 2017, 11:14:49 PM
@@ -403,7 +400,3 @@ By Stage IV/V we will be on "Skycoin 2.0" and will be upgrading the blockchain t
 The project is too large to solve all the problems at once, so it is being done incrementally in stages and designed to be useful and usable at every intermediate stage.
 
 ---
-
-
-
-
