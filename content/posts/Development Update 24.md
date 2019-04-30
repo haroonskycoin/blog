@@ -1,15 +1,12 @@
 +++
-title = "Development Update #24"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-24/"]
 date = "2014-06-13"
 description = "Release notes highlighting the current development behind Skycoin"
-aliases = [
-	"/development-updates/development-update-24/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #24: Skycoin Project Teams and Progress"
 
++++
 ## Summary:
 
 Its launching now. Cannot wait a year.
