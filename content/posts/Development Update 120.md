@@ -1,16 +1,10 @@
 +++
-title = "Development Update #120"
-tags = [
-    "Development",
-    "Infographics",
-    "CXO",
-]
+aliases = ["/development-updates/development-update-120/"]
 date = "2016-12-25"
-aliases = [
-	"/development-updates/development-update-120/"
-]
-+++
+tags = ["Development", "Infographics", "CXO"]
+title = "Skycoin Infographics 1"
 
++++
 ###### We are at 90% launch readiness:
 - Network is operating
 - 3 of the 7 white papers are on the websites
