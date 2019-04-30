@@ -1,14 +1,11 @@
 +++
-title = "Development Update #112"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-112/"]
 date = "2016-11-01"
-aliases = [
-	"/development-updates/development-update-112/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Skycoin Developer Test (might be tossed)"
 
++++
 ##### Someone try
 - run a skycoin node with go run ./cmd/skycoin/skycoin.go
 - go run ./cmd/cli/skycoin.go
