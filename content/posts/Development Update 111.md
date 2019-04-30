@@ -1,14 +1,10 @@
 +++
-title = "Development Update #111"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-111/"]
 date = "2016-10-31"
-aliases = [
-	"/development-updates/development-update-111/"
-]
-+++
+tags = ["Development"]
+title = "Concerns Over Inevitable Price Volatility"
 
++++
 ## Summary:
 The Skycoin CLI is done. We can do exchange listing now.
 The v2.0 of the Skycoin.net website is done (but needs dozens of changes)
