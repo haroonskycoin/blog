@@ -1,14 +1,10 @@
 +++
-title = "Development Update #106"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-106/"]
 date = "2016-10-05"
-aliases = [
-	"/development-updates/development-update-106/"
-]
-+++
+tags = ["Development"]
+title = "Checklist for Skycoin Launch"
 
++++
 Going through the launch check list
 
 Mostly check commit log:
