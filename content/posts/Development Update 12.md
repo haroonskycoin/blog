@@ -1,14 +1,10 @@
 +++
-title = "Development Update #12"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-12/"]
 date = "2014-04-04"
-aliases = [
-	"/development-updates/development-update-12/"
-]
-+++
+tags = ["Development"]
+title = "Messaging System, Wallet and Roadmap for Skycoin"
 
++++
 # Summary:
 
 ##### Current changes being worked on:
