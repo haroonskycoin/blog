@@ -1,17 +1,12 @@
 +++
-title = "Can Skycoin be 51% Attacked?"
-tags = [
-    "Statement",
-    "Obelisk",
-    "Consensus",
-]
+aliases = ["/statement/can-skycoin-be-51-attacked/"]
 bounty = 8
 date = "2017-10-07"
-aliases = [
-	"/statement/can-skycoin-be-51-attacked/"
-]
-+++
+draft = true
+tags = ["Statement", "Obelisk", "Consensus"]
+title = "Can Skycoin be 51% Attacked?"
 
++++
 *This is an archived post from the bitcointalks thread on February 16 2015*
 
 > Quote from: **iamback** on February 16, 2015, 09:28:38 AM
