@@ -1,15 +1,11 @@
 +++
-title = "Development Update #33"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-33/"]
 date = "2014-07-16"
-aliases = [
-	"/development-updates/development-update-33/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #33: Skycoin Cryptography Standard Library Update"
 
++++
 ## Skywire Repo Moved:
 
 The Skywire repository has been merged into the main Skycoin repository. Still being integrated to replace visor and daemon.
