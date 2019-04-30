@@ -1,15 +1,10 @@
 +++
-title = "Development Update #116"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-116/"]
 date = "2016-11-11"
-aliases = [
-	"/development-updates/development-update-116/"
-]
-+++
+tags = ["Development", "Skywire"]
+title = "Skycoin Project Status Update"
 
++++
 ## Coin Status:
 
 Dozens of bug fixes on the CLI and WebRPC interface. The OSX wallet directory bug is fixed now.
