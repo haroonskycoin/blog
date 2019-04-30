@@ -1,15 +1,11 @@
 +++
-title = "Development Update #39"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-39/"]
 date = "2014-10-01"
-aliases = [
-	"/development-updates/development-update-39/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #39: Skycoin Unspent Outputs and Mesh-net Update"
 
++++
 ## Summary:
 
 We have library now, for checking the unspent outputs for addresses. We are using obelisk tool kit and it is working well. The bitcoin blockchain synchronization has been running for a week now. It is on block 285,100 of block 323,354. It is 70 GB on disc and we don't know why. It has slowed down periodically, but has not stopped completely like bitcoind has. It is downloading a block a second. Blockchain synchronization should be finished within a hundred thousand seconds in the worst case (hopefully) and then we can test to make sure the ICO software works.

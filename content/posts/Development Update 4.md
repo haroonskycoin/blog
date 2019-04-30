@@ -1,16 +1,12 @@
 +++
-title = "Development Update #4"
-tags = [
-    "Development",
-    "Security",
-]
+aliases = ["/development-updates/development-update-4/"]
 date = "2014-03-03"
 description = "Release notes highlighting the current development behind Skycoin"
-aliases = [
-	"/development-updates/development-update-4/"
-]
-+++
+draft = true
+tags = ["Development", "Security"]
+title = "Development Update #4: The Design of Obelisk"
 
++++
 ## Software Update:
 
 The design of Obelisk is finalized. All the pieces come together and its a major milestone for cryptocoins. We believe that Skycoin will be the most secure, most difficult to attack non-mined cryptocoin to date.
@@ -24,4 +20,3 @@ The design of Obelisk is finalized. All the pieces come together and its a major
 - There is a massive refactor going on. Replication functionality  in /src/daemon is being moved into /src/sync. /src/visor functionality is being moved into /src/blockchain and the top level of Skycoin is being moved, to make changes required for Obelisk integration.
 - /src/coin and the cryptography libraries are "done".  The changes to this part of program will be minimal going forward.
 - We are finalizing the JSON RPC for exchanges and wallets
-
