@@ -1,14 +1,10 @@
 +++
-title = "Development Update #128"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-128/"]
 date = "2017-04-21"
-aliases = [
-	"/development-updates/development-update-128/"
-]
-+++
+tags = ["Development"]
+title = "The New Skycoin Wallet Version is Out"
 
++++
 ## New Wallet Version:
 
 Skycoin Wallet version 15 is on the website, which fixes dozens of UI bugs.

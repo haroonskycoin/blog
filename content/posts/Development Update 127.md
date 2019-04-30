@@ -1,14 +1,10 @@
 +++
-title = "Development Update #127"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-127/"]
 date = "2017-03-16"
-aliases = [
-	"/development-updates/development-update-127/"
-]
-+++
+tags = ["Development"]
+title = "Skycoin Partnerships and Content Revision"
 
++++
 Skycoin is finally getting an order book. This took too long.
 - next exchange upgrade/rewrite skycoin will float against bitcoin
 
