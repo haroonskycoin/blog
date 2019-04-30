@@ -1,15 +1,11 @@
 +++
-title = "Development Update #54"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-54/"]
 date = "2015-01-25"
-aliases = [
-	"/development-updates/development-update-54/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #54: Obelisk: a Web-of-Trust Consensus"
 
++++
 ### Consensus Algorithm Update:
 
 **White paper Draft**: http://128.199.188.22:1337/consensus.pdf
