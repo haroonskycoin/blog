@@ -1,14 +1,11 @@
 +++
-title = "Development Update #52"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-52/"]
 date = "2015-01-21"
-aliases = [
-	"/development-updates/development-update-52/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #52: Bug Fixes and Polishing"
 
++++
 ![](/img/dev-update-52-1.png)
 
 There is a major problem. All of the coins are in the genesis address and I cannot spend them for an unknown reason. The output is not being found. I working on this.

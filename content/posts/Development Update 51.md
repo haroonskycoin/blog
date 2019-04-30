@@ -1,15 +1,11 @@
 +++
-title = "Development Update #51"
-tags = [
-    "Development",
-    "Skycoin",
-]
+aliases = ["/development-updates/development-update-51/"]
 date = "2015-01-20"
-aliases = [
-	"/development-updates/development-update-51/"
-]
-+++
+draft = true
+tags = ["Development", "Skycoin"]
+title = "Development Update #51: Skycoin Crisis Tolerance and Mitigation"
 
++++
 We had a productive day yesterday. Some people were able to get builds working immediately. Other people had problems with golang and path issues we are working through.
 
 ##### We launched the blockchain after a few hours of work. Fixed half a dozen bugs.
