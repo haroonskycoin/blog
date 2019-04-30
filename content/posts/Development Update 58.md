@@ -1,13 +1,10 @@
 +++
-title = "Development Update #58"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-58/"]
 date = "2015-02-16"
-aliases = [
-	"/development-updates/development-update-58/"
-]
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #58: Cold Storage and Exchanges"
+
 +++
 ## Offline Wallets:
 
