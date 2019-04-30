@@ -1,15 +1,11 @@
 +++
-title = "Development Update #25"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-25/"]
 date = "2014-06-18"
-aliases = [
-	"/development-updates/development-update-25/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #25: Further Enhancing the Obelisk Consensus"
 
++++
 ## Summary:
 We figured out way of preventing Sybil attack using a hybrid Proof of Stake system.
 
