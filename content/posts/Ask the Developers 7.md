@@ -1,13 +1,11 @@
 +++
-title = "Ask the Developers #7"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-7/"]
 date = "2014-05-07"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
-aliases = [
-	"/ask-the-developers/ask-the-developers-7/"
-]
+draft = true
+tags = ["Ask the Developers"]
+title = "Ask the Developers #7"
+
 +++
 ## Comment:
 
@@ -185,5 +183,3 @@ Our distribution schedule is very similar to Bitcoin.
 - We have a professional market maker partner who is invested for the long term and will provide liquidity on both sides of the order book.
 
 We think the Bitcoin distribution schedule is the most natural and has been the most successful. We do not have miners and no new coins are created, so it has to be done by hand, but we think that is best way to allow gradual long term appreciation.
-
-

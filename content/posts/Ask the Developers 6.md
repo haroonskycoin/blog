@@ -1,13 +1,11 @@
 +++
-title = "Ask the Developers #6"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-6/"]
 date = "2014-12-19"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
-aliases = [
-	"/ask-the-developers/ask-the-developers-6/"
-]
+draft = true
+tags = ["Ask the Developers"]
+title = "Ask the Developers #6"
+
 +++
 ## Comment:
 
@@ -198,5 +196,3 @@ You can now add a deterministic wallet by seed. There will be gui button for thi
 http://127.0.0.1:6420/wallet/create?seed=yourseed
 
 ---
-
-
