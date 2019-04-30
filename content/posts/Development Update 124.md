@@ -1,14 +1,10 @@
 +++
-title = "Development Update #124"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-124/"]
 date = "2017-01-28"
-aliases = [
-	"/development-updates/development-update-124/"
-]
-+++
+tags = ["Development"]
+title = "Skycoin Status Update"
 
++++
 Exhausting list of changes, updates and bug fixes.
 - Most of the wallet bugs/issues are fixed
 - The CLI and automated deposits and withdrawals are done, raw transactions, send to many
