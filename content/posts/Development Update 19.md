@@ -1,14 +1,11 @@
 +++
-title = "Development Update #19"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-19/"]
 date = "2014-04-28"
-aliases = [
-	"/development-updates/development-update-19/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #19: The Skycoin White Paper is Out"
 
++++
 ## White Paper is Out
 
 First Draft of Skycoin Distributed Consensus White paper is on Github
