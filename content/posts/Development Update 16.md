@@ -1,15 +1,11 @@
 +++
-title = "Development Update #16"
-tags = [
-    "Development",
-    "Distribution",
-]
+aliases = ["/development-updates/development-update-16/"]
 date = "2014-04-21"
-aliases = [
-	"/development-updates/development-update-16/"
-]
-+++
+draft = true
+tags = ["Development", "Distribution"]
+title = "Development Update #16: Skycoin Distribution, Policy and Dev Bounties"
 
++++
 ## Summary:
 - The new developers for the meshnet are setup and working now.
 - The source routing implementation is almost done.
