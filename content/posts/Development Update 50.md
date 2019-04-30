@@ -1,14 +1,11 @@
 +++
-title = "Development Update #50"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-50/"]
 date = "2015-01-13"
-aliases = [
-	"/development-updates/development-update-50/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #50: Skycoin Core Updates"
 
++++
 ## Changes
 - The unit tests are fixed
 - The refactoring is still not done, but getting closer
