@@ -1,14 +1,11 @@
 +++
-title = "Development Update #15"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-15/"]
 date = "2014-04-14"
-aliases = [
-	"/development-updates/development-update-15/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #15: The Skycoin Community"
 
++++
 ## Summary:
 Development is exhausting. We pushed too hard to get to launch and underestimated the time and effort required. Getting things working has been easy, but 90% of the effort is in achieving quality and has been impossible to budget for.
 
