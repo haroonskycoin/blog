@@ -1,14 +1,10 @@
 +++
-title = "Development Update #121"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-121/"]
 date = "2017-01-08"
-aliases = [
-	"/development-updates/development-update-121/"
-]
-+++
+tags = ["Development"]
+title = "Skycoin Shifting Focus Towards Marketing"
 
++++
 Our technicals are done. I think we have fixed the last bugs. The wallet is getting polished up very nicely.
 
 ###### We need to start on marketing, applications, user community:
