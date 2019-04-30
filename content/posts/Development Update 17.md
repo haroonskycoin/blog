@@ -1,14 +1,11 @@
 +++
-title = "Development Update #17"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-17/"]
 date = "2014-04-22"
-aliases = [
-	"/development-updates/development-update-17/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #17: Skycoin APIs"
 
++++
 ## Summary:
 
 >How does MaidSafe's technology come into play here? It seems like it can complement Skycoin really well?
