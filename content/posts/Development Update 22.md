@@ -1,15 +1,11 @@
 +++
-title = "Development Update #22"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-22/"]
 date = "2014-05-14"
-aliases = [
-	"/development-updates/development-update-22/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #22: Skycoin Mesh-net and Obelisk Announcement"
 
++++
 ## Summary:
 We need to close out work on the coin so we can get onto the meshnet. We are trying to do too much:
 - Coin
