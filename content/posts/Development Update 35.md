@@ -1,15 +1,11 @@
 +++
-title = "Development Update #35"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-35/"]
 date = "2014-07-23"
-aliases = [
-	"/development-updates/development-update-35/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #35: Consensus Research Update"
 
++++
 ## Research Update
 
 Incredible breakthrough on consensus. We have been discussing methods for distributed consensus, creating terminology for understanding the consensus process. We think we have a good formal mathematical model now.
@@ -226,6 +222,3 @@ However, it does not have to be designed that way. In Skycoin these functions ar
 There can be different groups of people serving these functions
 
 The consensus mechanism can be complex, can be outside of the blockchain and can contain multiple factors or mechanisms. Hashing is the weakest mechanism and most expensive per unit of security. Proof of stake is second mechanism but also imperfect. An ideal system would combine Proof of Stake with a second mechanism indepedent of coin ownership, where even a majority coin holder could not attack the system without also compromising the independent mechanism.
-
-
-
