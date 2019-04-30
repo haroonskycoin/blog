@@ -1,15 +1,11 @@
 +++
-title = "Development Update #29"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-29/"]
 date = "2014-07-08"
-aliases = [
-	"/development-updates/development-update-29/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #29: Summary of Skycoin Consensus Research"
 
++++
 ## Summary:
 
 Its July. Meshnet was promised in July. Spec is done. Implementation in progress.
