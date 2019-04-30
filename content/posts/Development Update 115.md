@@ -1,14 +1,10 @@
 +++
-title = "Development Update #115"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-115/"]
 date = "2016-11-08"
-aliases = [
-	"/development-updates/development-update-115/"
-]
-+++
+tags = ["Development"]
+title = "Command Line Interfacer Complete"
 
++++
 ## 90 commits.
 - The Command Line Interface is done.
 - The first version of the WebRPC interface is in the repo
@@ -25,4 +21,3 @@ The CLI in next push will have
 - Adding private key to wallet by private key hex
 - Transactions for spending outputs held by a single address by private key
 - Working send
-
