@@ -1,15 +1,11 @@
 +++
-title = "Development Update #55"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-55/"]
 date = "2015-01-29"
-aliases = [
-	"/development-updates/development-update-55/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #55: Skycoin and Skywire Updates"
 
++++
 There will be a blockchain reset soon. There are some minor last minute changes to block header and I don't want to delay the distribution event further to fix this.
 
 ###### Skycoin is designed so that we can:
