@@ -1,15 +1,11 @@
 +++
-title = "Development Update #3"
-tags = [
-    "Development",
-    "Security",
-]
+aliases = ["/development-updates/development-update-3/"]
 date = "2014-02-23"
-aliases = [
-	"/development-updates/development-update-3/"
-]
-+++
+draft = true
+tags = ["Development", "Security"]
+title = "Development Update #3: Security Measures"
 
++++
 ## Summary:
 
 Skycoin now has bullet proof security.
@@ -58,5 +54,3 @@ So far, most users are only using "send" and there has not been widespread usage
 }
 
 The list is ordered by Seq. Poll peers and efficiently determine what they have that you don't.
-
-
