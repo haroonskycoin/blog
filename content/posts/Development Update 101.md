@@ -1,16 +1,10 @@
 +++
-title = "Development Update #101"
-tags = [
-    "Development",
-    "Skywire",
-    "CXO",
-]
+aliases = ["/development-updates/development-update-101/"]
 date = "2016-04-08"
-aliases = [
-	"/development-updates/development-update-101/"
-]
-+++
+tags = ["Development", "Skywire", "CXO"]
+title = "Skycoin Ecosystem Update Overview"
 
++++
 ## Meshnet:
 
 Version one meshnet is almost done
@@ -178,4 +172,3 @@ One of them looks like the pi-calculus or some kind of distributed anti-aircraft
 - [https://en.wikipedia.org/wiki/Blackboard_(design_pattern)](https://en.wikipedia.org/wiki/Blackboard_(design_pattern))
 
 The lambda-calculus is the algebra of procedural computation and the pi-calculus is the algebra of communication. There are some interesting implementations of this.
-
