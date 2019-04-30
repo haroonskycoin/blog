@@ -1,14 +1,10 @@
 +++
-title = "Development Update #125"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-125/"]
 date = "2017-02-21"
-aliases = [
-	"/development-updates/development-update-125/"
-]
-+++
+tags = ["Development"]
+title = "New Skycoin Website Blockchain Explorer"
 
++++
 ###### Blockchain explorer almost done. Check github.
 - github.com/skycoin/skycoin
 
