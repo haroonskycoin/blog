@@ -1,12 +1,10 @@
 +++
-title = "Development Update #49"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-49/"]
 date = "2015-01-03"
-aliases = [
-	"/development-updates/development-update-49/"
-]
+draft = true
+tags = ["Development"]
+title = "Development Update #49: An Effort to Build \"The New Internet\" is Growing"
+
 +++
 The tutorial on Cipher is done.
 
