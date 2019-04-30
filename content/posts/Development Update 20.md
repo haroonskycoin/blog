@@ -1,16 +1,11 @@
 +++
-title = "Development Update #20"
-tags = [
-    "Development",
-    "Cryptography",
-    "Security",
-]
+aliases = ["/development-updates/development-update-20/"]
 date = "2014-05-01"
-aliases = [
-	"/development-updates/development-update-20/"
-]
-+++
+draft = true
+tags = ["Development", "Cryptography", "Security"]
+title = "Development Update #20: Skycoin Distribution"
 
++++
 ## Summary:
 
 We are doing a lot of writing and documentation right now. The white paper is being split up into three white papers. We are going to have a more general document on problems with Bitcoin and Skycoin's long term approach to each problem. We want to emphasize the design differences and choices Skycoin makes.
