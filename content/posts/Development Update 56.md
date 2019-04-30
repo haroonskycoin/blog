@@ -1,14 +1,11 @@
 +++
-title = "Development Update #56"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-56/"]
 date = "2015-02-02"
-aliases = [
-	"/development-updates/development-update-56/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #56: Loading Wallet From Seed Enabled"
 
++++
 The button for loading deterministic wallets from seed is now in interface.
 
 ![](/img/dev-update-56-1.png)
