@@ -1,14 +1,11 @@
 +++
-title = "Development Update #26"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-26/"]
 date = "2014-06-22"
-aliases = [
-	"/development-updates/development-update-26/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #26: Skywire Code Cleanup"
 
++++
 ## Summary:
 
 The darknet repo has been removed and moved into Skywire and Whitepaper.
