@@ -1,15 +1,12 @@
 +++
-title = "Ask the Developers #2"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-2/"]
 date = "2014-01-01"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
-aliases = [
-	"/ask-the-developers/ask-the-developers-2/"
-]
-+++
+draft = true
+tags = ["Ask the Developers"]
+title = "Ask the Developers #2"
 
++++
 # Ask the Developers - Session #2
 
 ### Comment:
@@ -167,5 +164,3 @@ Also:
 -  A company launching a new brand of Tequora spends 60 million dollars in marketing to reach mainstream and build brand awareness, for a single territory.  To reach Litecoin level acceptance, a new coin needs a 200 million dollar marketing budget or has to be extremely compelling and appealing to a particular niche who will readily adapt the coin. No coin to date has reached widespread mainstream acceptance.
 
 ---
-
-
