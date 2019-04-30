@@ -1,14 +1,10 @@
 +++
-title = "Development Update #109"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-109/"]
 date = "2016-10-18"
-aliases = [
-	"/development-updates/development-update-109/"
-]
-+++
+tags = ["Development"]
+title = "New Wallet"
 
++++
 ##### There is a new wallet format:
 - https://github.com/skycoin/skycoin/pull/168/files
 
