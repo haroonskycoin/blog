@@ -1,16 +1,11 @@
 +++
-title = "Development Update #44"
-tags = [
-    "Development",
-    "Consensus",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-44/"]
 date = "2014-12-11"
-aliases = [
-	"/development-updates/development-update-44/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus", "Skywire"]
+title = "Development Update #44: Coin and Skywire Development Update"
 
++++
 This is over view of current development status and priorities
 
 ## Consensus
