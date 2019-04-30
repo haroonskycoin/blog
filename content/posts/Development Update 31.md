@@ -1,16 +1,11 @@
 +++
-title = "Development Update #31"
-tags = [
-    "Development",
-    "Skywire",
-    "Cryptography",
-]
+aliases = ["/development-updates/development-update-31/"]
 date = "2014-07-13"
-aliases = [
-	"/development-updates/development-update-31/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire", "Cryptography"]
+title = "Development Update #31: Skycoin Cryptography Upgrades"
 
++++
 ## Cryptography Upgrades:
 
 We are getting a function for encrypting blocks of data with ECCDH. There will be simple function that takes a public key and encrypts to binary and a simple function that takes the recipients private key for decryption from bytes.
