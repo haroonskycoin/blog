@@ -2,6 +2,7 @@
 aliases = ["/ask-the-developers/ask-the-developers-3/"]
 date = "2014-03-24"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
+draft = true
 tags = ["Ask the Developers"]
 title = "Ask the Developers #3"
 

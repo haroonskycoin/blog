@@ -1,15 +1,12 @@
 +++
-title = "Ask the Developers #4"
-tags = [
-    "Ask the Developers",
-]
+aliases = ["/ask-the-developers/ask-the-developers-4/"]
 date = "2014-04-10"
 description = "A weekly session where users can comment or ask questions to the Skycoin Developers in order to gain a better insight and understanding into the Skycoin Project "
-aliases = [
-	"/ask-the-developers/ask-the-developers-4/"
-]
-+++
+draft = true
+tags = ["Ask the Developers"]
+title = "Ask the Developers #4"
 
++++
 # Ask the Developers - Session #4
 
 ## Comment:
