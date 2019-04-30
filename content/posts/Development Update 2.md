@@ -1,14 +1,11 @@
 +++
-title = "Development Update #2"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-2/"]
 date = "2014-02-01"
-aliases = [
-	"/development-updates/development-update-2/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #2: Development of the Skycoin Wallet"
 
++++
 ## Summary:
 
  We are finishing networking. The test net client will be released at least one week before anything else. We want to make sure the client is working on all operating systems before launch.
@@ -64,4 +61,3 @@ Skycoin is an attack on ISPs and wireless companies in the same way that Bitcoin
 The routing protocol will be on github within two months and the coin will be launched within a week.
 
 Skycoin can be used for peer to peer payments like Bitcoin, but is currently primarily the base credit unit and transaction layer for implementation of several proof-of-bandwidth and distributed service protocols currently under development.
-
