@@ -1,14 +1,11 @@
 +++
-title = "Development Update #132"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-132/"]
 date = "2017-06-12"
-aliases = [
-	"/development-updates/development-update-132/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #132"
 
++++
 Update:
 
 ## Major Project Management/Organization things
