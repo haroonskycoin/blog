@@ -1,14 +1,11 @@
 +++
-title = "Development Update #48"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-48/"]
 date = "2014-12-25"
-aliases = [
-	"/development-updates/development-update-48/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #48: Software Wallet Fixes and Hardware Wallet Proposal"
 
++++
 I pushed a few fixes. The wallet is still buggy but looks great.
 
 ![](/img/dev-update-48-1.png)
