@@ -2,7 +2,7 @@
 aliases = ["/development-updates/development-update-10/"]
 date = "2014-03-23"
 tags = ["Development", "Skywire"]
-title = "Development Update #10"
+title = "The New Skywire Protocol 1/2"
 
 +++
 ## Summary:
