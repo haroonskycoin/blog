@@ -1,14 +1,11 @@
 +++
-title = "Development Update #32"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-32/"]
 date = "2014-07-14"
-aliases = [
-	"/development-updates/development-update-32/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #32: Node Routing and Altcoin Governance"
 
++++
 ## Summary:
 
 For routing, we will have each node report traffic statistics to central server. Then we will aggregate the statistics and publish them. Then "Route Discovery Servers" will download copies of the data, compute optimal routes. When a client wants a route, it will ask a route server and get a route. So the route discovery service is like a DNS type service.
