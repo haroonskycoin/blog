@@ -1,14 +1,11 @@
 +++
-title = "Development Update #67"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-67/"]
 date = "2015-04-17"
-aliases = [
-	"/development-updates/development-update-67/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #67: Skycoin Bug Fixes and Documentation"
 
++++
 Fixed a lot of bugs.
 
 The top levels, the gui and json are not as polished as lower levels (blockchain/crypto). I have not even looked at some of this code and discovering new things. There were things implemented, I didnt know we had working and things that needed to be cleaned up.
