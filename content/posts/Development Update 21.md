@@ -1,14 +1,11 @@
 +++
-title = "Development Update #21"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-21/"]
 date = "2014-05-08"
-aliases = [
-	"/development-updates/development-update-21/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #21: Skycoin Project Update"
 
++++
 ## Project Update:
 
 1. We are getting a Trello for organizing developers.
