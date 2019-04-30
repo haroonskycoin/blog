@@ -1,13 +1,10 @@
 +++
-title = "Development Update #40"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-40/"]
 date = "2014-10-17"
-aliases = [
-	"/development-updates/development-update-40/"
-]
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #40: Obelisk Testing"
+
 +++
 ## Consensus Simulation:
 
