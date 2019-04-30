@@ -1,14 +1,10 @@
 +++
-title = "Development Update #129"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-129/"]
 date = "2017-04-26"
-aliases = [
-	"/development-updates/development-update-129/"
-]
-+++
+tags = ["Development"]
+title = "Quality Control and Bug Fixes"
 
++++
 We are doing misc quality control and major bug fixes now
 
 ---
