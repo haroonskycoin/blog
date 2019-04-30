@@ -1,15 +1,11 @@
 +++
-title = "Development Update #23"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-23/"]
 date = "2014-05-23"
-aliases = [
-	"/development-updates/development-update-23/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #23: Skycoin Mesh-net White Paper is Out"
 
++++
 ## White paper
 
 The Skycoin meshnet white paper is done: **Skywire***
