@@ -1,14 +1,11 @@
 +++
-title = "Development Update #59"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-59/"]
 date = "2015-02-23"
-aliases = [
-	"/development-updates/development-update-59/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #59: Consensus and Computer Security Notes"
 
++++
 ## Research Note
 
 I do not want to announce anything prematurely, but it may be possible to use VerSum to lock out 51% attacks completely at overkill level. http://people.csail.mit.edu/nickolai/papers/vandenhooff-versum.pdf
