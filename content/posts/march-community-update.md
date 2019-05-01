@@ -68,7 +68,7 @@ Synth’s March Telegram talks were compiled and posted on YouTube. Listen to Sy
 
 On Medium, [The Justification for Skywire: A Technical Explanation](https://medium.com/skycoin/the-justification-for-skywire-a-technical-explanation-704b080a5eb5) takes a look into the protocol and monetary problems that Bitcoin and other cryptocurrencies experience and explains how Skywire solves these problems.
 
-The [February 2019 Community Update](https://medium.com/@Skycoinproject/february-2019-community-update-324df8191a16) was also published.
+The [February 2019 Community Update](https://medium.com/skycoin/february-2019-community-update-324df8191a16) was also published.
 
 Developer updates are posted on the Skyblog, where you can read all the updates described above in-depth. There was the [Skywire Mainnet Public Testing Announcement](https://www.skycoin.net/blog/posts/skywire-mainnet-public-testing-announcement/), the [CXFX Graphics Library](https://www.skycoin.net/blog/posts/cxfx-v0.1/), a March 8th [Skywire Dev Update](https://www.skycoin.net/blog/posts/skywire-mainnet-development-update/), the [CX 0.6 & 0.61 Dev Update](https://www.skycoin.net/blog/posts/introducing-cx-v0.6-and-0.6.1/), an update on [Skycoin’s Integration into Ledger](https://www.skycoin.net/blog/posts/skycoin-ledger-integration/), and a [March 29th Dev Update](https://www.skycoin.net/blog/posts/skycoin-development-update-week-13/).
 
