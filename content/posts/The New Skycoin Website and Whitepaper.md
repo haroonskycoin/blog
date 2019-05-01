@@ -1,16 +1,12 @@
 +++
-title = "The New Skycoin Website and Whitepaper"
-tags = [
-	"Announcements",
-]
+aliases = ["/statement/the-new-skycoin-website-and-whitepaper/"]
 bounty = 0
 date = "2018-04-06"
 image = "img/skycoin-new-website-whitepaper.png"
-aliases = [
-	"/statement/the-new-skycoin-website-and-whitepaper/"
-]
-+++
+tags = ["Announcements"]
+title = "The New Skycoin Website and Whitepaper"
 
++++
 We have a lot going on at Skycoin, yet amidst the technical development we also have curated, redesigned, and reimagined our website to include some exciting new features as well as feature the rollout of our official Whitepaper!
 
 We hope you're as excited as we are about this monumental update!
@@ -55,7 +51,6 @@ We hope you're as excited as we are about this monumental update!
 
     -   Skysuite
 
--   For a more condensed read of the whitepaper, please read our [TL;DR post](https://medium.com/@Skycoinproject/skycoin-whitepaper-tl-dr-f8e84dcd0d98), which highlights the most important features of the whitepaper and condenses the information in a quick and easily readable format.
+-   For a more condensed read of the whitepaper, please read our [TL;DR post](https://medium.com/skycoin/skycoin-whitepaper-tl-dr-f8e84dcd0d98), which highlights the most important features of the whitepaper and condenses the information in a quick and easily readable format.
 
 **Thank you for your continued support Skyfleet!**
-
