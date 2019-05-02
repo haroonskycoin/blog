@@ -1,8 +1,9 @@
 +++
 aliases = ["/development-updates/development-update-10/"]
 date = "2014-03-23"
+draft = true
 tags = ["Development", "Skywire"]
-title = "The New Skywire Protocol 1/2"
+title = "The New Skywire Protocol 1"
 
 +++
 ## Summary:
