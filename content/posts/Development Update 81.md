@@ -1,15 +1,11 @@
 +++
-title = "Development Update #81"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-81/"]
 date = "2015-09-10"
-aliases = [
-	"/development-updates/development-update-81/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #81: Skywire Infrastructure Update"
 
++++
 ## Exchange Overview:
 
 This is a prototype for a next-generation exchange infrastructure.
