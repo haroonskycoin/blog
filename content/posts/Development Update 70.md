@@ -3,7 +3,7 @@ aliases = ["/development-updates/development-update-70/"]
 date = "2015-04-19"
 draft = true
 tags = ["Development"]
-title = "Development Update #70: Skycoin Connection Issue Hotfixes"
+title = "Development Update #70: Skycoin Connection Issue Hot-fixes"
 
 +++
 ## Bug Fixes: Networking

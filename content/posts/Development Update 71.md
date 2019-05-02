@@ -1,14 +1,11 @@
 +++
-title = "Development Update #71"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-71/"]
 date = "2015-04-26"
-aliases = [
-	"/development-updates/development-update-71/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #71: Improvements to Queuing Transactions and PEX"
 
++++
 The network has been operating for a few weeks now. It is working pretty well, but there are reliability issues over open internet that did not occur in the VPN testing environment.
 
 ##### The two major improvements that are needed are:
