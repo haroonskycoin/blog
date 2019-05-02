@@ -1,15 +1,11 @@
 +++
-title = "Development Update #90"
-tags = [
-    "Development",
-    "Cryptography",
-]
+aliases = ["/development-updates/development-update-90/"]
 date = "2015-12-16"
-aliases = [
-	"/development-updates/development-update-90/"
-]
-+++
+draft = true
+tags = ["Development", "Cryptography"]
+title = "Development Update #90: One in Twelve-Thousand"
 
++++
 ## Crypto Library:
 
 Bad news, the crypto library problem is severe. In the new upgrade the public key for 1 in 1200 private keys will be different. To standardize it to Bitcoin. Only one or two people should be affected and we will replace the coins if they are unable to get them out of the wallet and send us the private key.
