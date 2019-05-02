@@ -1,12 +1,10 @@
 +++
-title = "Development Update #99"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-99/"]
 date = "2016-03-16"
-aliases = [
-	"/development-updates/development-update-99/"
-]
+draft = true
+tags = ["Development"]
+title = "Development Update #99: Skycoin Development Priorities"
+
 +++
 ## Project Priorities:
 
