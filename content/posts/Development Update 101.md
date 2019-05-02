@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-101/"]
 date = "2016-04-08"
+draft = true
 tags = ["Development", "Skywire", "CXO"]
 title = "Skycoin Ecosystem Update Overview"
 
