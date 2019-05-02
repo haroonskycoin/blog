@@ -1,14 +1,11 @@
 +++
-title = "Development Update #86"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-86/"]
 date = "2015-09-26"
-aliases = [
-	"/development-updates/development-update-86/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #86: Organization Structure and Survival"
 
++++
 There are some improvements coming up
 - Deprecation of the C secp256k1 library for golang version
 - Dependency vendoring. Means all dependencies of skycoin will be inside of the skycoin repo, for version 1.5. Improves security, makes it so that no one can insert a back door in an upstream library
