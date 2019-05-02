@@ -1,14 +1,11 @@
 +++
-title = "Development Update #78"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-79/"]
 date = "2015-08-24"
-aliases = [
-	"/development-updates/development-update-79/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #78: Skycoin: New Peer List Format"
 
++++
 I have switched the peer list to json instead of csv and am merging in the blacklist and peer lists.
 
 The new peer list format looks like.
