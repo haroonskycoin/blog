@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-104/"]
 date = "2016-08-30"
+draft = true
 tags = ["Development"]
 title = "Consensus and Generating Skycoin Wallet Addresses"
 
