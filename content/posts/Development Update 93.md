@@ -1,14 +1,11 @@
 +++
-title = "Development Update #93"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-93/"]
 date = "2015-12-23"
-aliases = [
-	"/development-updates/development-update-93/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #93: Skycoin Major Milestone and What's Next"
 
++++
 The crypto port is done. Major milestone done!
 
 I was almost ready to give up on getting it working, from frustration.
