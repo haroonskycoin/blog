@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-110/"]
 date = "2016-10-19"
+draft = true
 tags = ["Development"]
 title = "Coin and Website Nearing Completion"
 
