@@ -1,16 +1,11 @@
 +++
-title = "Development Update #75"
-tags = [
-    "Development",
-    "Consensus",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-75/"]
 date = "2015-06-13"
-aliases = [
-	"/development-updates/development-update-75/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus", "Skywire"]
+title = "Development Update #75: Skywire, Applications and Consensus Update"
 
++++
 The coin is done. We are working on networking. There are three different groups working independently on that and its not on github yet.
 
 ##### The coin needs:
