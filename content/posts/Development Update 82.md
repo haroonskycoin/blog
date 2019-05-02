@@ -1,14 +1,11 @@
 +++
-title = "Development Update #82"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-82/"]
 date = "2015-09-11"
-aliases = [
-	"/development-updates/development-update-82/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #82: Skycoin: Attack of the Bugs 3"
 
++++
 There is a major and very severe bug. I am upset that no one found this or brought it up earlier.
 
 For some reason, for some clients under some networking conditions the blockchain is not downloading until it reaches the head block. On LAN and running multiple instances on the same machine, the blockchain always synchronizes between all the clients in testing. In the real world, behind VPN, with latency, and servers in multiple countries the blockchain is not always syncing. The client can require multiple restarts to get the head block.
