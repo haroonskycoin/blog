@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-1/"]
 date = "2014-01-01"
+draft = true
 tags = ["Development"]
 title = "Skycoin: A New Hope"
 
