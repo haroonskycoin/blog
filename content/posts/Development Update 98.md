@@ -1,15 +1,11 @@
 +++
-title = "Development Update #98"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-98/"]
 date = "2016-02-02"
-aliases = [
-	"/development-updates/development-update-98/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #98: Alternative Internet Adoption is On the Rise"
 
++++
 Meshnet adaption is growing. The hardware problems are solved.
 
 ![](/img/dev-update-98-1.png)
@@ -23,4 +19,3 @@ For Skycoin:
 - wrap a VPN frontend and then get it working on OSX and Windows
 
 The angular 2.0 compilation/gulp setup is done and will use this as a pseudo terminal for now. I think this will be satisfactory for the interface.
-
