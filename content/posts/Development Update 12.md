@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-12/"]
 date = "2014-04-04"
+draft = true
 tags = ["Development"]
 title = "Messaging System, Wallet and Roadmap for Skycoin"
 
