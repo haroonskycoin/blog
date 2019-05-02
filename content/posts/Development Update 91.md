@@ -1,14 +1,11 @@
 +++
-title = "Development Update #91"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-91/"]
 date = "2015-12-18"
-aliases = [
-	"/development-updates/development-update-91/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #91: Skycoin Exchange Client"
 
++++
 ## Exchange
 
 Exchange GUI is in progress.
