@@ -1,15 +1,11 @@
 +++
-title = "Development Update #92"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-92/"]
 date = "2015-12-20"
-aliases = [
-	"/development-updates/development-update-92/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #92: Skywire Mesh-net/VPN"
 
++++
 ###### There are three major goals/milestones right now:
 - Get crypto port to golang finished (so we can do cross platform builds)
 - Get liquidity (exchange platform)
@@ -105,4 +101,3 @@ https://github.com/motemen/gore
 For javascript/html interface, it polls with get/post, but need way to send an event back from the application to the web-browser. This is called "push notifications' or WebRTC.
 
 I have to decide whether the interface should be Angular.JS or just use jQuery or application specific/terminal.
-
