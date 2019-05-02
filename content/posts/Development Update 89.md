@@ -1,15 +1,11 @@
 +++
-title = "Development Update #89"
-tags = [
-    "Development",
-    "Cryptography",
-]
+aliases = ["/development-updates/development-update-89/"]
 date = "2015-12-12"
-aliases = [
-	"/development-updates/development-update-89/"
-]
-+++
+draft = true
+tags = ["Development", "Cryptography"]
+title = "Development Update #89: Skycoin: Purging the Bugs"
 
++++
 ## Fixes:
 
 Fixed dozens of bugs with the crypto library port.
