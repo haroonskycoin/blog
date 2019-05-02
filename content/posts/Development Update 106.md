@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-106/"]
 date = "2016-10-05"
+draft = true
 tags = ["Development"]
 title = "Checklist for Skycoin Launch"
 

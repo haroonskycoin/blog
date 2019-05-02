@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-107/"]
 date = "2016-10-10"
+draft = true
 tags = ["Development", "Skywire"]
 title = "Mobile API is Done"
 

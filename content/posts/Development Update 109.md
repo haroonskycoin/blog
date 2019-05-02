@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-109/"]
 date = "2016-10-18"
+draft = true
 tags = ["Development"]
 title = "New Wallet"
 
