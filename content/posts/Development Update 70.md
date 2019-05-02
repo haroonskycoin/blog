@@ -1,14 +1,11 @@
 +++
-title = "Development Update #70"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-70/"]
 date = "2015-04-19"
-aliases = [
-	"/development-updates/development-update-70/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #70: Skycoin Connection Issue Hotfixes"
 
++++
 ## Bug Fixes: Networking
 
 Yesterday, as soon as soon people started connecting to network, we found out how unreliable the internet is. People had difficulty connecting to servers. The majority of client did not have open ports so could not accept incoming connections. People had to wait hours for connections and then transactions were not propagating for some users, depending on country.
