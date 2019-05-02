@@ -1,15 +1,11 @@
 +++
-title = "Development Update #84"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-84/"]
 date = "2015-09-13"
-aliases = [
-	"/development-updates/development-update-84/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #84: Skywire Meshnet Update"
 
++++
 The exchange is in progress. As soon as the bitcoin/skycoin withdrawals/deposits are done, then it will take a few hours to get order book working.
 
 I cannot wait for the order processing to be automated and to have some liquidity. Application developers will like this exchange and its API. It is very modular.
