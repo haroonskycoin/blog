@@ -1,15 +1,11 @@
 +++
-title = "Development Update #77"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-77/"]
 date = "2015-08-11"
-aliases = [
-	"/development-updates/development-update-77/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #77: Skywire Topology Route Research"
 
++++
 ## Research Update:
 
 Six months ago I began research into economic systems for the meshnet.
