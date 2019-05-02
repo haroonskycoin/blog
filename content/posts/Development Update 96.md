@@ -1,15 +1,11 @@
 +++
-title = "Development Update #96"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-96/"]
 date = "2016-01-20"
-aliases = [
-	"/development-updates/development-update-96/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #96: Skywire Research and Development"
 
++++
 Finished some small things, but mostly design work
 
 ##### There are some minor changes
@@ -111,8 +107,3 @@ The language has everything stripped out, so I may be able to implement it in a 
 The largest problem is that I don't have a pseudo-terminal that is cross platform and I need a meta-circular interpreter for driving the terminal gui widgets and the best way to do that is an early version of the scripting language.
 
 The scripting language has added security benefit of being memory safe. In theory, you can strip out the whole operating system and just have a program for the networking drivers and another program for disc.
-
-
-
-
-
