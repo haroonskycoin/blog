@@ -1,14 +1,11 @@
 +++
-title = "Development Update #80"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-80/"]
 date = "2015-08-25"
-aliases = [
-	"/development-updates/development-update-80/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #80: State Interference and Skycoin Peer-to-Peer Algorithm Update"
 
++++
 GoAgent was forced off of Github by state security
 - https://github.com/goagent/goagent
 
