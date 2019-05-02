@@ -1,14 +1,11 @@
 +++
-title = "Development Update #8"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-8/"]
 date = "2014-03-16"
-aliases = [
-	"/development-updates/development-update-8/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #8: Compiling Binaries for Testnet"
 
++++
 We are compiling binaries for the testnet. Will release binaries and instructions for running testnet from source. You will be able to get testnet coins by posting address in github thread.
 
 ### Question:
@@ -23,4 +20,3 @@ Yes. We should have windows binaries.
 - We are looking into using docker for deployment and testing
 - 64-bit is highly recommended
 - Some people are getting errors because golang is not detecting changes to imported modules correctly. ./compile/clean-static-libs.sh fixes this problem by clearing out the cache
-
