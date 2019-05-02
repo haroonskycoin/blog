@@ -1,16 +1,11 @@
 +++
-title = "Development Update #88"
-tags = [
-    "Development",
-    "Cryptography",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-88/"]
 date = "2015-12-11"
-aliases = [
-	"/development-updates/development-update-88/"
-]
-+++
+draft = true
+tags = ["Development", "Cryptography", "Skywire"]
+title = "Development Update #88: Skycoin: Attack of the Bugs 4"
 
++++
 The crypto library is not deterministic. It is failing for every one in twelve thousand keys.
 - A private key should be a 32 byte integer, that is not zero and which is less than the order of the curve.
 - The base point is raised to the power of the private key, to generate a public key
@@ -148,4 +143,3 @@ I have a simple scripting language, that you can write on a napkin, with three t
 The routing is very simple.
 
 I want to get to this soon.
-
