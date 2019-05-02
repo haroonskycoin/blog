@@ -1,14 +1,11 @@
 +++
-title = "Development Update #76"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-76/"]
 date = "2015-07-26"
-aliases = [
-	"/development-updates/development-update-76/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #76: Skycoin Upgrades"
 
++++
 ## Priorities:
 
 There are many thing we want to do, but have to focus and defer a lot of things for future. Right now, there are a few things in progress.
