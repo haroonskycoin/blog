@@ -1,15 +1,11 @@
 +++
-title = "Development Update #94"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-94/"]
 date = "2016-01-04"
-aliases = [
-	"/development-updates/development-update-94/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #94: Compilations, Builds, Dependencies, and Skywire Updates"
 
++++
 ## Cross Compilation:
 
 Cross compilation is now working flawlessly! We have builds for Windows, OSX, Linux, BSD, Plan9, Arm, NaCL. It is completely automated.

@@ -1,14 +1,11 @@
 +++
-title = "Development Update #95"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-95/"]
 date = "2016-01-06"
-aliases = [
-	"/development-updates/development-update-95/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #95: Skycoin Cross Compilation"
 
++++
 ## Cross Compilation
 
 ##### To cross compile skycoin, do:
