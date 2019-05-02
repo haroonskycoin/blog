@@ -1,15 +1,11 @@
 +++
-title = "Development Update #74"
-tags = [
-    "Development",
-    "Consensus",
-]
+aliases = ["/development-updates/development-update-74/"]
 date = "2015-06-07"
-aliases = [
-	"/development-updates/development-update-74/"
-]
-+++
+draft = true
+tags = ["Development", "Consensus"]
+title = "Development Update #74: Skycoin Consensus Convergence"
 
++++
 Here is benchmark of the Skycoin consensus algorithm and rounds to convergence vs other voter based algorithms.
 
 ![](/img/dev-update-74-1.png)
