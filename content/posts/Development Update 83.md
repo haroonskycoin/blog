@@ -1,14 +1,11 @@
 +++
-title = "Development Update #83"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-83/"]
 date = "2015-09-12"
-aliases = [
-	"/development-updates/development-update-83/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #83: Skycoin: Client Update"
 
++++
 I fixed the bug! The blockchain now downloads in under 2 seconds!
 
 I actually have no idea why the blockchain was downloading at all.
