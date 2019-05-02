@@ -1,14 +1,11 @@
 +++
-title = "Development Update #73"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-73/"]
 date = "2015-05-10"
-aliases = [
-	"/development-updates/development-update-73/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #73: The Skycoin Advantage"
 
++++
 I am trying to do something very simple. I am trying to get the balance of a Bitcoin address against a remote server, from Golang using a thin client. It is impossible. I have to write the server/client and wrap libbitcoin because it does not exist.
 
 In Skycoin, I can go :
