@@ -1,15 +1,11 @@
 +++
-title = "Development Update #87"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-87/"]
 date = "2015-12-05"
-aliases = [
-	"/development-updates/development-update-87/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #87: Major Progress to Skywire"
 
++++
 One of the three major project milestones is almost done. The crypto library port is nearly finished.
 
 I am excited about checking this off list, because it is one of the most critical and time consuming things.
@@ -53,6 +49,3 @@ This is technically a "multi-agent system", which is one step beyond "peer to pe
 ![](/img/dev-update-87-3.jpg)
 
 This is a new research area, but there are very simple algorithms that appear to work pretty well.
-
-
-
