@@ -1,15 +1,11 @@
 +++
-title = "Development Update #72"
-tags = [
-    "Development",
-    "Skywire",
-]
+aliases = ["/development-updates/development-update-72/"]
 date = "2015-05-08"
-aliases = [
-	"/development-updates/development-update-72/"
-]
-+++
+draft = true
+tags = ["Development", "Skywire"]
+title = "Development Update #72: Skywire Structure Update"
 
++++
 ## Summary:
 
 The coin is basicly done. Other people can come in and polish up the hundreds of other things now. There are two developers working on front end and api, so will speed it along. Nothing else that is absolutely critical and not incremental needs to be done. There are still hundreds of small changes, improvements, refactoring to be done but it can be ignored for now.
