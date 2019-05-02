@@ -1,15 +1,11 @@
 +++
-title = "Development Update #9"
-tags = [
-    "Development",
-    "Security",
-]
+aliases = ["/development-updates/development-update-9/"]
 date = "2014-03-21"
-aliases = [
-	"/development-updates/development-update-9/"
-]
-+++
+draft = true
+tags = ["Development", "Security"]
+title = "Development Update #9: Skycoin Blockchain Checkpoints and Security"
 
++++
 ## Summary
 
 - Wire protocol almost done
