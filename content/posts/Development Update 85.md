@@ -1,14 +1,11 @@
 +++
-title = "Development Update #85"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-85/"]
 date = "2015-09-19"
-aliases = [
-	"/development-updates/development-update-85/"
-]
-+++
+draft = true
+tags = ["Development"]
+title = "Development Update #85: Skywire Mesh-net Cleanup"
 
++++
 I simplified the lowest level of the networking. I stripped everything out.
 - The mesh network protocol is now so simple that it can be operated by hand, over paper, punch cards or carrier pidgeon if the internet is destroyed and humanity loses the ability to use electricity.
 - the algorithm being used is scale invariant in time. It works over milliseconds, seconds, days, months, years, centuries. The key parameters between two links is the bandwidth/latency product (the bandwidth of the link in bits/second times the latency between when a message is sent and when the confirmation of receipt is received). That defines the buffer size (which is bounded and finite) for the connection between two nodes.
