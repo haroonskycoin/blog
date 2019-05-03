@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-65/"]
 date = "2015-04-06"
+draft = true
 tags = ["Development"]
 title = "Development Update #65: Skycoin Connections"
 

@@ -1,6 +1,7 @@
 +++
 aliases = ["/development-updates/development-update-36/"]
 date = "2014-07-29"
+draft = true
 tags = ["Development", "Cryptography"]
 title = "Development Update #36: Skycoin Cryptography Audit and Changes"
 
