@@ -2,7 +2,7 @@
 aliases = ["/development-updates/development-update-115/"]
 date = "2016-11-08"
 tags = ["Development"]
-title = "Command Line Interfacer Complete"
+title = "Command Line Interface Complete"
 
 +++
 ## 90 commits.
