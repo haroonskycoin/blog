@@ -48,6 +48,7 @@ fields:
     source:
       type: documents
 pages:
+- content/posts/skycoin-development-update-week-18.md
 - content/posts/skycoin-development-update-week-17.md
 - content/posts/skycoin-x-odyssey-hackathon-2019.md
 - content/posts/skycoin-development-update-week-16.md
