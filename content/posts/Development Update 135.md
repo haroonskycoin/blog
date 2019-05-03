@@ -1,17 +1,12 @@
 +++
-title = "Skycoin Development Update #135"
-tags = [
-	"Announcements",
-	"Development",
-]
+aliases = ["/development-updates/development-update-135/"]
 bounty = 0
 date = "2018-08-17"
 image = "img/skycoin-mobile-wallet-is-here.png"
-aliases = [
-	"/development-updates/development-update-135/"
-]
-+++
+tags = ["Announcements", "Development"]
+title = "Skycoin Development Update #135: Android Mobile Wallet Release"
 
++++
 Skyfleet, we are thrilled to announce that the first official Android version of our mobile wallet is now fully ready to be released!
 
 Download the wallet here: <https://www.skycoin.net/downloads/>
