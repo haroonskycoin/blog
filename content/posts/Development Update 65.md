@@ -1,14 +1,10 @@
 +++
-title = "Development Update #65"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-65/"]
 date = "2015-04-06"
-aliases = [
-	"/development-updates/development-update-65/"
-]
-+++
+tags = ["Development"]
+title = "Development Update #65: Skycoin Connections"
 
++++
 Unit tests work for networking. It works locally. It works with multiple clients on the internal virtual private network for testing. It is 100% working. However, on public internet cannot connect to anything and there are strange errors. The peers/connection list is empty.
 
 [skycoin.daemon:DEBUG] Removing 89.110.41.155:23547 because failed to connect: dial tcp 89.110.41.155:23547: i/o timeout

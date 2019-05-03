@@ -1,14 +1,10 @@
 +++
-title = "Development Update #47"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-47/"]
 date = "2014-12-22"
-aliases = [
-	"/development-updates/development-update-47/"
-]
-+++
+tags = ["Development"]
+title = "Development Update #47: Happy Birthday Skycoin!"
 
++++
 ## One Year Anniversary
 
 In celebration of the first year anniversary of the launch announcement, we are launching coin!
