@@ -1,14 +1,10 @@
 +++
-title = "Skycoin Development Update #134"
-tags = [
-    "Development",
-]
+aliases = ["/development-updates/development-update-134/"]
 date = "2018-07-27"
-aliases = [
-	"/development-updates/development-update-134/"
-]
-+++
+tags = ["Development"]
+title = "Skycoin Development Update #134: Skycoin Wallet Update"
 
++++
 {{< youtube id="1VVqfrA_vhw" autoplay="true" >}}
 
 We have an update for the Skycoin wallet! [Version 0.24 has been released and is downloadable here.](https://www.skycoin.net/downloads/) Version 0.24 comes loaded with multiple new features which will assist the Skycoin community to store and transact with SKY & Coin Hours. Among the new features is an advanced spending user interface (UI) consisting of the following features:
