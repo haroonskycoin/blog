@@ -31,6 +31,17 @@ Then, commit the changes and push.
 
 If there are no problems, then https://www.skycoin.net/blog/ will automatically update in a few minutes.
 
+Front Matter Config
+===================
+
+If you change a post's URL, add the old URLs to the `aliases` front matter to preserve links.
+
+If you want a post to redirect to a different URL, instead of showing the post, use the `redirectURL` parameter.
+This is only intended for special cases, in general you want to use `aliases`.
+
+Specify an `image` in the front matter to control the thumbnail that appears on the
+index pages.
+
 Translations
 ============
 
