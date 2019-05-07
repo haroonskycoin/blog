@@ -1,12 +1,9 @@
 +++
-title = "Skycoin Roadmap"
-tags = [
-    "Infographics",
-]
+aliases = ["/infographics/skycoin-roadmap/"]
 date = "2017-08-25"
+draft = true
 image = "img/Skycoin%2BRoadmap-Mobile-2017-1-01.jpg"
-aliases = [
-	"/infographics/skycoin-roadmap/"
-]
-+++
+tags = ["Infographics"]
+title = "Skycoin Roadmap"
 
++++
