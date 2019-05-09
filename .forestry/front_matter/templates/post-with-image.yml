@@ -49,12 +49,12 @@ fields:
       type: documents
 pages:
 - content/posts/april-209-community-update.md
-- content/posts/skycoin-development-update-week-17.md
-- content/posts/skycoin-development-update-week-18.md
-- content/posts/skycoin-x-odyssey-hackathon-2019.md
-- content/posts/skycoin-development-update-week-16.md
 - content/posts/the-skycoin-coin-hour-bank.md
 - content/posts/caption-test.md
-- content/posts/skycoin-development-update-week-15.md
-- content/posts/inside-the-skywire-mainnet.md
+- content/posts/skycoin-x-odyssey-hackathon-2019.md
 - content/posts/developing-on-skycoin-skycoin-arena-1.md
+- content/posts/skycoin-development-update-week-17.md
+- content/posts/skycoin-development-update-week-18.md
+- content/posts/inside-the-skywire-mainnet.md
+- content/posts/skycoin-development-update-week-16.md
+- content/posts/skycoin-development-update-week-15.md
