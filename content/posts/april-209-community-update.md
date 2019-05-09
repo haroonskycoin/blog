@@ -8,8 +8,6 @@ tags = ["Announcements", "Development"]
 title = "April 2019 Community Update"
 
 +++
-***
-
 Skycoin’s hectic progress flowed over from March to April. Starting with Skywire developer mainnet continuing its refinement, the Coin Hour Bank nearing public release, CX Labs offering developers earning potential via the creation of CX apps, and a collaborative Skycoin team attended the biggest Blockchain hackathon in the world! Just to mention a few highlights.
 
 **Read on for the full scoop!**
@@ -34,9 +32,10 @@ For an up-to-date view of what’s going on with the Skywire mainnet check out t
 
 **A reminder Skyfleet,** if you want to assist testing the developer Skywire mainnet, make sure to install the software on a pi _not_ whitelisted for testnet, otherwise you’ll forgo your testnet rewards. Speaking of, the total reward pool for April was 40,000 Skycoin, 16,000 to DIY and 24,000 to official miners.
 
-![](https://cdn-images-1.medium.com/max/2133/1*5pvoSW6Xnp1SGBJNNHSSTQ.jpeg)
+![Skywire Route Creation](https://cdn-images-1.medium.com/max/2133/1*5pvoSW6Xnp1SGBJNNHSSTQ.jpeg)
 
-#### The Coin Hour Bank
+####   
+The Coin Hour Bank
 
 An essential component of Skycoin’s closed-loop ecosystem, the Coin Hour Bank is built around sending and receiving Coin Hours for services. The most immediate use for the Coin Hour Bank is bandwidth metering on Skywire, where traffic forwarding will be balanced using Coin Hours.
 
