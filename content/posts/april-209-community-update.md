@@ -138,13 +138,9 @@ April produced extensive testing of the Skycoin Ledger flow while working toward
 
 The long-anticipated episode of The Future is Now from the Malta Blockchain Summit 2018 was released. Skycoin is featured throughout the 38-minute masterpiece; so find some food, a comfy seat and sit back while you’re taken through the journey of Malta 2018. It’s well worth the watch!
 
-[**This 10-minute video summarizes it well.**](https://www.youtube.com/watch?v=71K-wW6WqYE)
-
 Synth’s full interview with Miguel will be released in the near future.
 
-(Link to video)
-
-Skycoin attended the Malta Blockchain event on the 1st & 2nd of November 2018
+{{< youtube id="WVtW-HDf5L8&t" caption="[**This 10-minute video **](https://www.youtube.com/watch?v=71K-wW6WqYE)summarizes Skycoin's involvement well." >}}
 
 #### Official Articles
 
@@ -157,9 +153,7 @@ April development updates: [**Week 14**](https://www.skycoin.net/blog/posts/skyc
 
 To accompany the article “[_Skycoin at the Odyssey 2019 Hackathon_](https://www.youtube.com/watch?v=pWW3FMgB5xc&t=24s)_”_ depicted the team's hackathon fanatics. Another beautiful ‘[_Skywallet unboxing_](https://www.youtube.com/watch?v=X2Lh47FGKA8)’ lulled us further into euphoric yearning for the proclaimed Trezzor killer. Topping it off, we were treated to the first two in what will be many Skycoin update videos, found [here](https://youtu.be/mdlT1LkTweI) and below.
 
-(Link to video)
-
-Weekly video updates will accompany the Skyblog updates.
+{{< youtube id="mu3HDa9abIM&t" caption="Weekly video updates will accompany the Skyblog updates." >}}
 
 #### Meetups/Events
 
@@ -198,9 +192,7 @@ Make sure to tune in for the next live-stream awards show on the 5th of May at 0
 
 Although there were many excellent contributions to SRP this month! This article on “[_Skywire Competitor Analysis_](https://medium.com/skyfleet-captains-log/skywire-competitor-analysis-8f409733f128)_,_” by [Marco Casino](https://medium.com/u/168a7047d1a2), and the below video by [Fray](https://medium.com/u/36ad740cdb37) deserve some limelight. The video impressed the Chinese marketing team so much so, that they’ve translated it!
 
-{{< youtube WVtW-HDf5L8&t>}}
-
-See more videos from Fray [here](https://www.youtube.com/channel/UC41FZquwlKSIVxgMhwJrsiw/videos).
+{{< youtube id="6KdEIpD3RgU&t" caption="See more videos from Fray [here](https://www.youtube.com/channel/UC41FZquwlKSIVxgMhwJrsiw/videos)." >}}
 
 #### Skycoin Jobs
 
