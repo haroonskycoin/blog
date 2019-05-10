@@ -48,6 +48,7 @@ fields:
     source:
       type: documents
 pages:
+- content/posts/image-test.md
 - content/posts/april-209-community-update.md
 - content/posts/the-skycoin-coin-hour-bank.md
 - content/posts/caption-test.md
