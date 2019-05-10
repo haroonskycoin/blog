@@ -55,6 +55,8 @@ Eventually, Coin Hours will openly trade on exchanges, thus securing a market ra
 
 ![](/img/Coin Hour Bank.png)
 
+{{< figure src="/img/Coin Hour Bank.png" title="Check out the announcement article for the \[Coin Hour Bank\]([https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/](https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/ "https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/"))" >}}
+
 #### Skycoin Core:
 
 [BIP 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki "BIP 32 ") support was added to Skycoin’s cryptography libraries.  
@@ -92,6 +94,8 @@ CX is a programmers playground waiting to be explored, the possibilities are end
 You can find a comprehensive list of ideas pinned in the [CX Lab’s Telegram room](https://web.telegram.org/#/im?p=@CXLabs). However, creativity and originality are encouraged.
 
 ![](/img/CX Labs.jpeg)
+
+{{< figure src="/img/CX Labs.png" title="Check out the \[CX Labs launch article.\]([https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6 "https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6"))" >}}
 
 #### CXFX
 
@@ -132,6 +136,8 @@ The long-anticipated episode of The Future is Now from the Malta Blockchain Summ
 
 Synth’s full interview with Miguel will be released in the near future.
 
+{{< youtube id="WVtW-HDf5L8&t" caption="**This 10-minute video **summarizes Skycoin's involvement well." >}}
+
 #### Official Articles
 
 In April the team brought you articles such as “[_Inside The Skywire Mainnet_](https://medium.com/skycoin/inside-the-skywire-mainnet-1349134f0ea5)_,”_ a look at Skywire, the issues it faces, and a glimpse at what’s to come. The “[_March 2019 Community Update_](https://medium.com/skycoin/march-2019-community-update-721148dc40e6)_”_ compiled Skycoin’s highlights. We had our first look at “[_The Skycoin Coin Hour Bank_](https://medium.com/skycoin/the-skycoin-coin-hour-bank-e10eec316050)_,”_ which nears completion.  
@@ -142,6 +148,8 @@ April development updates: [**Week 14**](https://www.skycoin.net/blog/posts/skyc
 #### Official Videos
 
 To accompany the article “[_Skycoin at the Odyssey 2019 Hackathon_](https://www.youtube.com/watch?v=pWW3FMgB5xc&t=24s)_”_ depicted the team's hackathon fanatics. Another beautiful ‘[_Skywallet unboxing_](https://www.youtube.com/watch?v=X2Lh47FGKA8)’ lulled us further into euphoric yearning for the proclaimed Trezzor killer. Topping it off, we were treated to the first two in what will be many Skycoin update videos, found [here](https://youtu.be/mdlT1LkTweI) and below.
+
+{{< youtube id="mu3HDa9abIM&t" caption="Weekly video updates will accompany the Skyblog updates." >}}
 
 #### Meetups/Events
 
@@ -173,6 +181,8 @@ Make sure to tune in for the next live-stream awards show on the 5th of May at 0
 ![](https://cdn-images-1.medium.com/max/667/1*VKiXgxbGYF9x4xvc5_qxPw.jpeg)
 
 Although there were many excellent contributions to SRP this month! This article on “[_Skywire Competitor Analysis_](https://medium.com/skyfleet-captains-log/skywire-competitor-analysis-8f409733f128)_,_” by [Marco Casino](https://medium.com/u/168a7047d1a2), and the below video by [Fray](https://medium.com/u/36ad740cdb37) deserve some limelight. The video impressed the Chinese marketing team so much so, that they’ve translated it!
+
+{{< youtube id="6KdEIpD3RgU&t" caption="See more videos from Fray here." >}}
 
 #### Skycoin Jobs
 
