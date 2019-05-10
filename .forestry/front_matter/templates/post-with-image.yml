@@ -48,6 +48,7 @@ fields:
     source:
       type: documents
 pages:
+- content/posts/skycoin-development-update-week-19.md
 - content/posts/image-test.md
 - content/posts/april-209-community-update.md
 - content/posts/the-skycoin-coin-hour-bank.md
