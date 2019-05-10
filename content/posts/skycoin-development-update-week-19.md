@@ -2,7 +2,6 @@
 aliases = []
 date = "2019-05-10T00:00:00+00:00"
 description = "Updates about the Skycoin ecosystem development of the week. "
-draft = true
 image = "/img/Skycoin-devupdate-051019.png"
 tags = ["Skycoin", "Development"]
 title = "Skycoin Development Update - Week 19"
@@ -20,14 +19,30 @@ Important progress on Skywallet this week has seen the implementation of the abi
 
 Other work has focused on cleaning up deprecated code, increasing test coverage, and starting a comprehensive review of crypto-related code, as well as analyzing some vulnerabilities reported by Trezor.
 
-###  Coin Hour Bank Update
+### Coin Hour Bank Update
 
 Among many updates this week, we have now fixed the CHB icon to support pinning on the homescreen and improved the transaction list with a better table that improves convenience and searchability, as well as its overall design and responsiveness. We have also made adjustments to improve limits and rules for withdrawals and ensure that the proper destination address is used in all cases.
 
 Fixes include resolving an issue that was preventing miner transfer in certain edge cases, as well as one that was preventing users from being re-enabled if shut out improperly. The export threshold is now configurable, and work continues on testing across the board as we prepare for the the second CHB instance.
 
-###  Ledger Update
+### Ledger Update
 
 Put briefly, work on Ledger has seen completion of the Go wrapper and testing, as well as merging the transaction signing mechanism.
 
 Step by step and feature by feature, Skycoin continues to improve through our work to build a more secure, user-friendly, and powerful ecosystem.
+
+**Skycoin Store:** [https://store.skycoin.net/](https://store.skycoin.net/ "https://store.skycoin.net/")
+
+**Website:** [https://www.skycoin.net/](https://www.skycoin.net/ "https://www.skycoin.net/")
+
+**Telegram:** [https://t.me/Skycoin](https://t.me/Skycoin "Skycoin Telegram Mainchat")
+
+**Twitter:** [https://twitter.com/Skycoinproject](https://twitter.com/Skycoinproject "https://twitter.com/Skycoinproject")
+
+**Reddit:** [https://reddit.com/r/Skycoin](https://reddit.com/r/Skycoin "https://reddit.com/r/Skycoin")
+
+**YouTube:** [https://www.youtube.com/c/skycoin](https://www.youtube.com/c/skycoin "https://www.youtube.com/c/skycoin")
+
+**Facebook:** [https://www.facebook.com/groups/skycoinofficial](https://www.facebook.com/groups/skycoinofficial "https://www.facebook.com/groups/skycoinofficial")
+
+**LinkedIn:** [https://de.linkedin.com/company/skycoin](https://de.linkedin.com/company/skycoin "https://de.linkedin.com/company/skycoin")
