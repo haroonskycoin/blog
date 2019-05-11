@@ -9,3 +9,11 @@ title = "Image test"
 
 +++
  {{< figure src="https://www.skycoin.net/static/media/miner1.6081e0e4.png" title="Skyminer" >}}
+ 
+ 
+ <figure>
+  <img src="https://www.skycoin.net/static/media/miner1.6081e0e4.png"  />
+  <figcaption>
+      <h4>Skyminer</h4>
+  </figcaption>
+</figure>
