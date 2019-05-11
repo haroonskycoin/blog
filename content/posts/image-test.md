@@ -14,6 +14,6 @@ title = "Image test"
  <figure>
   <img src="https://www.skycoin.net/static/media/miner1.6081e0e4.png"  />
   <figcaption>
-    <p>Buy a <a href="#">Skyminer</a> from the <h4>store</h4></p>
+    <p>Buy a Skyminer from the <a href="https://store.skycoin.net">store</a>.</p>
   </figcaption>
 </figure>
