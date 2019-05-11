@@ -12,8 +12,6 @@ Skycoin’s hectic progress flowed over from March to April. Starting with Skywi
 
 **Read on for the full scoop!**
 
-***
-
 #### Skywire
 
 Starting with Skywire, our scalable peer-to-peer mesh network, delivering secure, uncensored, and lightning fast internet access across the globe.
@@ -51,11 +49,11 @@ We’re excited to announce that Coin Hour Bank beta testing began late April an
 
 Eventually, Coin Hours will openly trade on exchanges, thus securing a market rate reflecting their perceived value within Skycoin’s ecosystem. Driven by demand for bandwidth, storage or computation on Skywire; for items within CX games, chips to play poker and blackjack, or transacting on Skycoin’s decentralized exchange. The Coin Hour price will reflect their usage, and the value attached to the services we acquire with them.
 
-**For a refresher on Coin Hours,** [**read this article**](https://medium.com/skycoin/skycoin-coin-hours-f537fa7ae614)**_._**
+**For a refresher on Coin Hours, [read this article](https://medium.com/skycoin/skycoin-coin-hours-f537fa7ae614).**
 
 ![](/img/Coin Hour Bank.png)
 
-{{< figure src="/img/Coin Hour Bank.png" title="Check out the announcement article for the \[Coin Hour Bank\]([https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/](https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/ "https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/"))" >}}
+{{< figure src="/img/Coin Hour Bank.png" title="Check out the announcement article for the \[Coin Hour Bank\]([https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/])" >}}
 
 #### Skycoin Core:
 
