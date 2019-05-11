@@ -89,9 +89,7 @@ CX is a programmers playground waiting to be explored, the possibilities are end
 
 You can find a comprehensive list of ideas pinned in the [CX Lab’s Telegram room](https://web.telegram.org/#/im?p=@CXLabs). However, creativity and originality are encouraged.
 
-![](/img/CX Labs.jpeg)
-
-{{< figure src="/img/CX Labs.png" link="https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6" caption="Check out the [CX Labs launch article](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6)." >}}
+{{< figure src="/img/CX Labs.jpeg" link="https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6" caption="Check out the [CX Labs launch article](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6)." >}}
 
 #### CXFX
 
