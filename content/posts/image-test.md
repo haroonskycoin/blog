@@ -8,4 +8,12 @@ tags = []
 title = "Image test"
 
 +++
-<img src="https://cdn-images-1.medium.com/max/1200/1*addNyzeP0_FPMRNgCRfzJw.jpeg">
+ {{< figure src="https://www.skycoin.net/static/media/miner1.6081e0e4.png" title="Skyminer" >}}
+ 
+ 
+ <figure>
+  <img src="https://www.skycoin.net/static/media/miner1.6081e0e4.png"  />
+  <figcaption>
+    <p>Buy a Skyminer from the <a href="https://store.skycoin.net">store</a>.</p>
+  </figcaption>
+</figure>

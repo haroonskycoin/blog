@@ -49,7 +49,7 @@ We’re excited to announce that Coin Hour Bank beta testing began late April an
 
 Eventually, Coin Hours will openly trade on exchanges, thus securing a market rate reflecting their perceived value within Skycoin’s ecosystem. Driven by demand for bandwidth, storage or computation on Skywire; for items within CX games, chips to play poker and blackjack, or transacting on Skycoin’s decentralized exchange. The Coin Hour price will reflect their usage, and the value attached to the services we acquire with them.
 
-**For a refresher on Coin Hours, [read this article](https://medium.com/skycoin/skycoin-coin-hours-f537fa7ae614).**
+**For a refresher on Coin Hours,** [**read this article**](https://medium.com/skycoin/skycoin-coin-hours-f537fa7ae614)**.**
 
 {{< figure src="/img/Coin Hour Bank.png" link="https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/" caption="Check out the announcement article for the [Coin Hour Bank](https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/)" >}}
 
@@ -91,7 +91,7 @@ You can find a comprehensive list of ideas pinned in the [CX Lab’s Telegram ro
 
 ![](/img/CX Labs.jpeg)
 
-{{< figure src="/img/CX Labs.png" title="Check out the \[CX Labs launch article.\](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6)" >}}
+{{< figure src="/img/CX Labs.png" link="[https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6 "https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6")" caption="Check out the \[CX Labs launch article.\](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6)" >}}
 
 #### CXFX
 
