@@ -51,20 +51,20 @@ Eventually, Coin Hours will openly trade on exchanges, thus securing a market ra
 
 **For a refresher on Coin Hours, [read this article](https://medium.com/skycoin/skycoin-coin-hours-f537fa7ae614).**
 
-{{< figure src="/img/Coin Hour Bank.png" link="https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/" title="Check out the announcement article for the Coin Hour Bank" caption="[Check out](https://www.google.com) the announcement article for the Coin Hour Bank" >}}
+{{< figure src="/img/Coin Hour Bank.png" link="https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/" caption="Check out the announcement article for the [Coin Hour Bank](https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/)" >}}
 
 #### Skycoin Core:
 
-[BIP 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki "BIP 32 ") support was added to Skycoin’s cryptography libraries.  
+[BIP 32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki "BIP 32 ") support was added to Skycoin’s cryptography libraries.
 Initially proposed by G. Maxwell, BIP 32 is a common standard that enables compatibility with [Ledger](https://ledger.readthedocs.io/en/latest/background/hd_keys.html), [TREZOR](https://en.bitcoin.it/wiki/TREZOR "TREZOR") and other 3rd-party wallets that use hierarchical, deterministic wallets (HD wallets).
 
 #### CX
 
-CX version 0.7 underwent its final touches and documentation in April.  
+CX version 0.7 underwent its final touches and documentation in April.
 This release will include:
 
 * A polished version of CX chains (CX + blockchain)
-* “Formal” integration of CXFX (CX’s game engine)
+* "Formal" integration of CXFX (CX’s game engine)
 * A web API for CX chains (For querying a list of programs stored on the blockchain, sending a program to be run, etc.)
 * And refactorization of CX code
 
@@ -72,7 +72,7 @@ A massive step for CX; blockchain integration has been a long time in the making
 
 #### CX Labs
 
-Led by our most [Lawful](https://medium.com/u/9eaf8961a2ab) member, CX Labs is a hybrid between rewards, bounties, and a hackathon-style program, aiming to encourage and incentivize the creation of apps using CX and Fiber chains.  
+Led by our most [Lawful](https://medium.com/u/9eaf8961a2ab) member, CX Labs is a hybrid between rewards, bounties, and a hackathon-style program, aiming to encourage and incentivize the creation of apps using CX and Fiber chains.
 CX Labs officially launched at the beginning of May.
 
 * The top prize is **$2,500 USD paid in Skycoin**
@@ -132,18 +132,18 @@ The long-anticipated episode of The Future is Now from the Malta Blockchain Summ
 
 Synth’s full interview with Miguel will be released in the near future.
 
-{{< youtube id="WVtW-HDf5L8&t" caption="**This 10-minute video **summarizes Skycoin's involvement well." >}}
+{{< youtube id="WVtW-HDf5L8&t" caption="This 10-minute video summarizes Skycoin's involvement well." >}}
 
 #### Official Articles
 
-In April the team brought you articles such as “[_Inside The Skywire Mainnet_](https://medium.com/skycoin/inside-the-skywire-mainnet-1349134f0ea5)_,”_ a look at Skywire, the issues it faces, and a glimpse at what’s to come. The “[_March 2019 Community Update_](https://medium.com/skycoin/march-2019-community-update-721148dc40e6)_”_ compiled Skycoin’s highlights. We had our first look at “[_The Skycoin Coin Hour Bank_](https://medium.com/skycoin/the-skycoin-coin-hour-bank-e10eec316050)_,”_ which nears completion.  
-Then to round off the month we saw “[_Skycoin at Odyssey Hackathon 2019_](https://medium.com/skycoin/skycoin-at-odyssey-hackathon-2019-e116c29ea274)_.”_ A recap of what was achieved by the Skycoin team over a 3-day period.
+In April the team brought you articles such as "[_Inside The Skywire Mainnet_](https://medium.com/skycoin/inside-the-skywire-mainnet-1349134f0ea5)_,"_ a look at Skywire, the issues it faces, and a glimpse at what’s to come. The "[_March 2019 Community Update_](https://medium.com/skycoin/march-2019-community-update-721148dc40e6)_"_ compiled Skycoin’s highlights. We had our first look at "[_The Skycoin Coin Hour Bank_](https://medium.com/skycoin/the-skycoin-coin-hour-bank-e10eec316050)_,"_ which nears completion.
+Then to round off the month we saw "[_Skycoin at Odyssey Hackathon 2019_](https://medium.com/skycoin/skycoin-at-odyssey-hackathon-2019-e116c29ea274)_."_ A recap of what was achieved by the Skycoin team over a 3-day period.
 
-April development updates: [**Week 14**](https://www.skycoin.net/blog/posts/skycoin-development-update-week-14/) **|** [**Week 15**](https://www.skycoin.net/blog/posts/skycoin-development-update-week-15/) **|** [**Week 16**](https://www.skycoin.net/blog/posts/skycoin-development-update-week-16/) **|** [**Week 17__](https://www.skycoin.net/blog/posts/skycoin-development-update-week-17/)****
+April development updates: [**Week 14**](https://www.skycoin.net/blog/posts/skycoin-development-update-week-14/) **|** [**Week 15**](https://www.skycoin.net/blog/posts/skycoin-development-update-week-15/) **|** [**Week 16**](https://www.skycoin.net/blog/posts/skycoin-development-update-week-16/) **|** [**Week 17__](https://www.skycoin.net/blog/posts/skycoin-development-update-week-17/)**
 
 #### Official Videos
 
-To accompany the article “[_Skycoin at the Odyssey 2019 Hackathon_](https://www.youtube.com/watch?v=pWW3FMgB5xc&t=24s)_”_ depicted the team's hackathon fanatics. Another beautiful ‘[_Skywallet unboxing_](https://www.youtube.com/watch?v=X2Lh47FGKA8)’ lulled us further into euphoric yearning for the proclaimed Trezzor killer. Topping it off, we were treated to the first two in what will be many Skycoin update videos, found [here](https://youtu.be/mdlT1LkTweI) and below.
+To accompany the article "[_Skycoin at the Odyssey 2019 Hackathon_](https://www.youtube.com/watch?v=pWW3FMgB5xc&t=24s)_"_ depicted the team's hackathon fanatics. Another beautiful ‘[_Skywallet unboxing_](https://www.youtube.com/watch?v=X2Lh47FGKA8)’ lulled us further into euphoric yearning for the proclaimed Trezzor killer. Topping it off, we were treated to the first two in what will be many Skycoin update videos, found [here](https://youtu.be/mdlT1LkTweI) and below.
 
 {{< youtube id="mu3HDa9abIM&t" caption="Weekly video updates will accompany the Skyblog updates." >}}
 
@@ -153,16 +153,16 @@ As mentioned above, some of the Skycoin troops teamed up with Milvum a developme
 
 The Odessey Hackathon is the world’s biggest AI and Blockchain hackathon. This year there were 1,500 participants competing in 11 tracks to solve 20 real-world societal challenges.
 
-The team competed in the disaster relief track and elected to solve the specific challenge “ [Co-creating and sharing validated data during a disaster](https://www.odyssey.org/ifv-challenge-sharing-validated-data-during-disaster/).”  
+The team competed in the disaster relief track and elected to solve the specific challenge " [Co-creating and sharing validated data during a disaster](https://www.odyssey.org/ifv-challenge-sharing-validated-data-during-disaster/)."
 Dubbed _Hummingbird,_ the team’s solution deployed a Skywire mesh using Hiber satellite nodes to create a multi-tiered, mesh network, independent from traditional Internet infrastructure and accessible via a mobile app.
 
-![](https://cdn-images-1.medium.com/max/500/1*zZiRcfrsGfbWgdsHXXTHnw.jpeg)
+![](https://cdn-images-1.medium.com/max/500/1\*zZiRcfrsGfbWgdsHXXTHnw.jpeg)
 
-![](https://cdn-images-1.medium.com/max/500/1*9O7FUKzvxK7gLyIo_ZBWIQ.jpeg)
+![](https://cdn-images-1.medium.com/max/500/1\*9O7FUKzvxK7gLyIo_ZBWIQ.jpeg)
 
 Olemis Lang hosted another Cuban Tech development meetup focusing on various components of the Skycoin ecosystem, and first-timer Redcurse gave an introductory presentation to an intrigued blockchain gathering in Canada.
 
-![](https://cdn-images-1.medium.com/max/500/1*NPWTGLfSta8L5X8wan8BuA.jpeg)
+![](https://cdn-images-1.medium.com/max/500/1\*NPWTGLfSta8L5X8wan8BuA.jpeg)
 
 In the upcoming months there’s plenty of Skycoin and Skyfleet meetups to look forward to. Make sure to join the [Skycoin meetups Telegram room](https://t.me/MeetupsWorldwideSkycoin) and ask if there’s anything happening in your area.
 
@@ -174,15 +174,15 @@ The Skycoin Rewards Program (SRP) continues to stir up creative content from Sky
 
 Make sure to tune in for the next live-stream awards show on the 5th of May at 08:00 a.m. UTC. Hosted on the [_Skyfleet_ YouTube channel](https://www.youtube.com/channel/UCsWgASci1NzCtSNU25w8qPg). For a full list of all 2019 awards shows, save the below calendar.
 
-![](https://cdn-images-1.medium.com/max/667/1*VKiXgxbGYF9x4xvc5_qxPw.jpeg)
+![](https://cdn-images-1.medium.com/max/667/1\*VKiXgxbGYF9x4xvc5_qxPw.jpeg)
 
-Although there were many excellent contributions to SRP this month! This article on “[_Skywire Competitor Analysis_](https://medium.com/skyfleet-captains-log/skywire-competitor-analysis-8f409733f128)_,_” by [Marco Casino](https://medium.com/u/168a7047d1a2), and the below video by [Fray](https://medium.com/u/36ad740cdb37) deserve some limelight. The video impressed the Chinese marketing team so much so, that they’ve translated it!
+Although there were many excellent contributions to SRP this month! This article on "[_Skywire Competitor Analysis_](https://medium.com/skyfleet-captains-log/skywire-competitor-analysis-8f409733f128)_,_" by [Marco Casino](https://medium.com/u/168a7047d1a2), and the below video by [Fray](https://medium.com/u/36ad740cdb37) deserve some limelight. The video impressed the Chinese marketing team so much so, that they’ve translated it!
 
 {{< youtube id="6KdEIpD3RgU&t" caption="See more videos from Fray here." >}}
 
 #### Skycoin Jobs
 
-If you are interested in working directly on various aspects of Skycoin alongside the dev team, check out the [jobs listed on the official site](https://www.skycoin.net/jobs/).  
+If you are interested in working directly on various aspects of Skycoin alongside the dev team, check out the [jobs listed on the official site](https://www.skycoin.net/jobs/).
 We are currently looking for a Mechanical Engineer, Circuit Engineer, Software Engineer (Backend), Firmware Engineer, Marketing Manager, Operations Manager, and Technical Writer.
 
 #### Skycoin Telegram Groups
@@ -190,7 +190,7 @@ We are currently looking for a Mechanical Engineer, Circuit Engineer, Software E
 It can be hard to keep track of all the different Telegram groups in the Skycoin project. Here are some groups that you may not yet have joined:
 
 * [**Skywire Mainnet**](https://t.me/SkywireMainnet) — a place for developers interested in exploring the first versions of Skywire mainnet, and for support and to discuss features/issues.
-* [**Skywire Antenna Group **](https://t.me/SkywireAntenna)— discussion and support for Skyfleet working on building out the Skywire wireless mesh network.
+* [**Skywire Antenna Group**](https://t.me/SkywireAntenna)— discussion and support for Skyfleet working on building out the Skywire wireless mesh network.
 * [**Skycoin Game Dev**](https://t.me/skycoin_game_dev/4738) — discussions on game development written in CX.
 * [**Skycoin CXFX**](https://t.me/Skycxfx) — a Telegram group for those building and using the CXFX game engine.
 * [**Skycoin 3D Print**](https://t.me/Skycoin3DPrint) — the place to go for all Skycoin 3D-printing-related discussion.
@@ -198,9 +198,9 @@ It can be hard to keep track of all the different Telegram groups in the Skycoin
 * [**Skyfleet News**](https://t.me/SkyfleetNews) — only Skyfleet news links, no chat. Great for keeping up to date with the growing amount of ecosystem development and content.
 * [**Skycoin Rewards Room**](https://t.me/SkycoinRewards) — for submitting Skyfleet content and claiming your tickets to the monthly Skycoin Rewards Program (SRP)
 * [**CX Labs**](https://web.telegram.org/#/im?p=@CXLabs) — for creating CX apps and getting rewarded in Skycoin, run by Lawful this fledgling project will be massive in a few months.
-* [**Skycoin memes **](https://t.me/skycoinmemecontests)— Skycoin memes and graphics creations live here.
+* [**Skycoin memes**](https://t.me/skycoinmemecontests) — Skycoin memes and graphics creations live here.
 
-That concludes the month of April, what a busy one.  
+That concludes the month of April, what a busy one.
 Yet with the Coin Hour Bank, CX Labs, CX Blockchain integration and the Skywallet on our horizon, April will be dwarfed by months to come!
 
 Make sure you check out the [latest Skyfleet Monthly Manifest](https://trello.com/c/4kSdaDAf/61-monthly-update) for all the latest Skyfleet developments and keep an eye on the [Skyblog](https://www.skycoin.net/blog/) for all the future development updates. You can also follow Skycoin on [Blockfolio](https://blockfolio.com/coin/SKY).
