@@ -5,9 +5,9 @@ figure {
   	margin-bottom: 10px !important;
   }
 }
-figcaption {
-    text-align: center;
-    color: rgba(7,23,46, 0.6);
+figcaption h4, figcaption p {
+  text-align: center;
+  color: rgba(7,23,46, 0.6);
 	font-weight: 300;
 }
 
@@ -39,7 +39,7 @@ figcaption {
   &__title {
     font-size: 30px;
     color: $dark-gray;
-    font-weight: bold;
+    font-weight: bold;    
   }
 
   .meta {
@@ -73,7 +73,7 @@ figcaption {
       color: $gray;
       font-size: 12px;
       line-height: 24px;
-      border: 1px solid $gray;
+      border: 1px solid $gray;	
       border-radius: 13px;
       padding: 0 20px;
       margin: 0 10px 10px 0;
@@ -118,7 +118,7 @@ figcaption {
 
     dd, ol, ul {
       list-style-type: unset;
-    }
+    }   
 
     ul {
       padding-left: 1rem;
