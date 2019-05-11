@@ -51,8 +51,6 @@ Eventually, Coin Hours will openly trade on exchanges, thus securing a market ra
 
 **For a refresher on Coin Hours, [read this article](https://medium.com/skycoin/skycoin-coin-hours-f537fa7ae614).**
 
-![](/img/Coin Hour Bank.png)
-
 {{< figure src="/img/Coin Hour Bank.png" title="Check out the announcement article for the [Coin Hour Bank](https://www.skycoin.net/blog/posts/the-skycoin-coin-hour-bank/)" >}}
 
 #### Skycoin Core:
