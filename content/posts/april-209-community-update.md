@@ -91,7 +91,7 @@ You can find a comprehensive list of ideas pinned in the [CX Lab’s Telegram ro
 
 ![](/img/CX Labs.jpeg)
 
-{{< figure src="/img/CX Labs.png" link="[https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6 "https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6")" caption="Check out the \[CX Labs launch article.\](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6)" >}}
+{{< figure src="/img/CX Labs.png" link="https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6" caption="Check out the [CX Labs launch article](https://medium.com/skyfleet-captains-log/experimenting-in-cx-labs-c7f8bcef4e6)." >}}
 
 #### CXFX
 
@@ -132,7 +132,7 @@ The long-anticipated episode of The Future is Now from the Malta Blockchain Summ
 
 Synth’s full interview with Miguel will be released in the near future.
 
-{{< youtube id="WVtW-HDf5L8&t" caption="**This 10-minute video **summarizes Skycoin's involvement well." >}}
+{{< youtube id="WVtW-HDf5L8&t" caption="This 10-minute video summarizes Skycoin's involvement well." >}}
 
 #### Official Articles
 
